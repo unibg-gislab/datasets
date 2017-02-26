@@ -1,0 +1,245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.65925124358045,
+                    45.67736374173453,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "A",
+                "styleUrl": "#m_ylw-pushpin8",
+                "styleHash": "-58fd13c5",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin40",
+                    "highlight": "#s_ylw-pushpin_hl30"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.65953520435952,
+                    45.67757399334767,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "B",
+                "styleUrl": "#m_ylw-pushpin200",
+                "styleHash": "-49579a20",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin7",
+                    "highlight": "#s_ylw-pushpin_hl41"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.660001592918373,
+                    45.67780237923904,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "C",
+                "styleUrl": "#m_ylw-pushpin21",
+                "styleHash": "37cebe3e",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin21",
+                    "highlight": "#s_ylw-pushpin_hl40"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.658792734785717,
+                    45.6770449895717,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "D",
+                "styleUrl": "#m_ylw-pushpin30",
+                "styleHash": "7eb73258",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin70",
+                    "highlight": "#s_ylw-pushpin_hl7"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.657835739639948,
+                    45.67699533463221,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "F",
+                "styleUrl": "#m_ylw-pushpin7",
+                "styleHash": "-7ae031a5",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin200",
+                    "highlight": "#s_ylw-pushpin_hl11"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.658587390131817,
+                    45.67666829945878,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "E",
+                "styleUrl": "#m_ylw-pushpin42",
+                "styleHash": "-2af52a63",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin31",
+                    "highlight": "#s_ylw-pushpin_hl51"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.659729990448877,
+                    45.67803648267606,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "G",
+                "styleUrl": "#m_ylw-pushpin50",
+                "styleHash": "4d306762",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin9",
+                    "highlight": "#s_ylw-pushpin_hl02"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.659904346816742,
+                    45.67835555117838,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "H",
+                "styleUrl": "#m_ylw-pushpin12",
+                "styleHash": "-2a97080",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin01",
+                    "highlight": "#s_ylw-pushpin_hl9"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.660495082683765,
+                    45.67817420391679,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "I",
+                "styleUrl": "#m_ylw-pushpin02",
+                "styleHash": "-1e84e507",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin60",
+                    "highlight": "#s_ylw-pushpin_hl70"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.660196280414556,
+                    45.67805062670389,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "AREA EX-GRES",
+                "styleUrl": "#m_ylw-pushpin6",
+                "styleHash": "-3a590425",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin8",
+                    "highlight": "#s_ylw-pushpin_hl6"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.658577034787534,
+                    45.67893983089532,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "PALAGHIACCIO",
+                "styleUrl": "#m_ylw-pushpin11",
+                "styleHash": "f83045b",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin51",
+                    "highlight": "#s_ylw-pushpin_hl8"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.659137614435295,
+                    45.67938427743035,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "AREA EX-GRES",
+                "styleUrl": "#m_ylw-pushpin9",
+                "styleHash": "-21b2c3e7",
+                "styleMapHash": {
+                    "normal": "#s_ylw-pushpin11",
+                    "highlight": "#s_ylw-pushpin_hl21"
+                }
+            }
+        }
+    ]
+}

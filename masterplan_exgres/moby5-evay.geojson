@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Name": "E-Vai Point Piazzale Marconi", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 9.675533810926535, 45.691155920059707, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "E-Vai Point Via Sentierone", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 9.670804295258016, 45.695447629441169, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "E-Vai Point Via Beltrami", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 9.658805562797749, 45.707640921510617, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "E-Vai Point Orio Center", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 9.69265021578288, 45.664701376387569, 0.0 ] } }
+]
+}

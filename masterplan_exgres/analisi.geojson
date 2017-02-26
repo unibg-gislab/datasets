@@ -7,38 +7,19 @@
                 "type": "Point",
                 "coordinates": [
                     9.657408040990692,
-                    45.67824176167744,
-                    0
+                    45.67824176167744
                 ]
             },
             "properties": {
+                "name": "ANALISI",
+                "icon": "point",
                 "styleUrl": "#msn_shaded_dot",
                 "styleHash": "-6e387017",
                 "styleMapHash": {
                     "normal": "#sn_shaded_dot0",
                     "highlight": "#sh_shaded_dot0"
                 },
-                "description": "<FONT SIZE=\"3,5\"><br>\n<b><center> ANALISI</b></center>\n<TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/exgres_oggi_bing_200x150.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/exgres_futuro_200x150.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD><br>\n<body> <div class=\"box\"><br>\n<a href=\"http://www.rifoit.org/rifo3d/area_ex_gres/link_kml/analisi_link.html\" target=\"_blank\">APRI</a><br><br>\n<b></b>L'area di progetto è collocata nella parte sud-occidentale della città di Bergamo. La zona è caratterizzata da un mix funzionale di residenze e aree industriali, in cui spicca la presenza dei Corpi Santi, ossia un insieme di borghi (Grumello del Piano, Colognola, Campagnola) disposti attorno all'area in questione che hanno intrattenuto con il centro urbano una relazione dialettica per secoli e che mantengono ancora oggi una propria identità forte. La criticità più evidente di tale radialità risulta essere la frattura tra i tessuti urbani principali causati dalla ferrovia, dall'autostrada e dalla circonvallazione. Tali infrastrutture di mobilità rendono l'area ex-Gres una sorta di isola urbana collegata al centro solamente mediante la Via S. Bernardino. L'importanza storica di quest'ultimo asse viario deriva dal mettere in connessione le aree agricole con Città Alta passando per il Corpo Santo di Colognola che nel passato ha prima funzionato come centro produttivo per le ortaglie destinate alla città, assumendo successivamente una funzione residenziale, che ha visto tra l'altro la costruzione di alcune abitazioni per i lavoratori dello Stabilimento Gres.\n<br><br>\n<head>\n<style type=\"text/css\">\n.box {\nwidth:410px;\nheight: auto;\nborder: 0 px solid;\ncolor: #000000;\nbackground: transparent;\ntext-align: justify;\nline-height: auto;\n}\n</style>\n</head>\n</div> </body>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.65712737522908,
-                    45.67822246764991,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "ANALISI",
-                "styleUrl": "#msn_shaded_dot0",
-                "styleHash": "3d89da5f",
-                "styleMapHash": {
-                    "normal": "#sn_shaded_dot",
-                    "highlight": "#sh_shaded_dot"
-                }
+                "description": "<FONT SIZE=\"3,5\"><TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/exgres_oggi_bing_200x150.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/exgres_futuro_200x150.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD><br>\n<body> <div class=\"box\"><br>\n<a href=\"http://www.rifoit.org/rifo3d/area_ex_gres/link_kml/analisi_link.html\" target=\"_blank\">APRI</a><br><br>\n<b></b>L'area di progetto è collocata nella parte sud-occidentale della città di Bergamo. La zona è caratterizzata da un mix funzionale di residenze e aree industriali, in cui spicca la presenza dei Corpi Santi, ossia un insieme di borghi (Grumello del Piano, Colognola, Campagnola) disposti attorno all'area in questione che hanno intrattenuto con il centro urbano una relazione dialettica per secoli e che mantengono ancora oggi una propria identità forte. La criticità più evidente di tale radialità risulta essere la frattura tra i tessuti urbani principali causati dalla ferrovia, dall'autostrada e dalla circonvallazione. Tali infrastrutture di mobilità rendono l'area ex-Gres una sorta di isola urbana collegata al centro solamente mediante la Via S. Bernardino. L'importanza storica di quest'ultimo asse viario deriva dal mettere in connessione le aree agricole con Città Alta passando per il Corpo Santo di Colognola che nel passato ha prima funzionato come centro produttivo per le ortaglie destinate alla città, assumendo successivamente una funzione residenziale, che ha visto tra l'altro la costruzione di alcune abitazioni per i lavoratori dello Stabilimento Gres.\n<br><br>\n<head>\n<style type=\"text/css\">\n.box {\nwidth:410px;\nheight: auto;\nborder: 0 px solid;\ncolor: #000000;\nbackground: transparent;\ntext-align: justify;\nline-height: auto;\n}\n</style>\n</head>\n</div> </body>"
             }
         }
     ]

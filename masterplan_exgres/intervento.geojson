@@ -1,0 +1,27 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.65659766781011,
+                    45.67713760327514,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "INTERVENTO",
+                "styleUrl": "#msn_shaded_dot",
+                "styleHash": "-2d95237",
+                "styleMapHash": {
+                    "normal": "#sn_shaded_dot0",
+                    "highlight": "#sh_shaded_dot"
+                },
+                "description": "<FONT SIZE=\"3,5\"><TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/demolizioni_400x300.jpg\" WIDTH=200 HEIGHT=150 ALT=>                                                             </TD>\n<TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/diagrammafunzionale_400x300.jpg\" WIDTH=200 HEIGHT=150 ALT=> </TD><br>\n<body> <div class=\"box\"><br>\n<a href=\"http://www.rifoit.org/rifo3d/area_ex_gres/link_kml/intervento_link.html\" target=\"_blank\">APRI</a><br><br>\n<b>SUPERFICI PROGETTO:</b><br>\nCapannoni recuperati: ca. 20.000mq<br>\nSistemazioni esterne (piazza + aree verdi): ca. 22.500mq<br>\nAree a verde esterne all'area: 70.000mq<br><br>\nL'intervento propone la conservazione della maggior parte dei capannoni industriali, con eccezione delle parti più fatiscenti e non facilmente recuperabili. In particolare, si prospetta la demolizione di quegli edifici costruiti nella zona centrale dell'area di intervento in modo da liberare spazio per la grande piazza coperta che diventerebbe il fulcro della nuova destinazione. Per quanto riguarda il recupero degli altri edifici esistenti, si prospetta un risanamento \"leggero\" adottando interventi necessari alla loro messa in sicurezza. Per un edificio (quello più meridionale dell'area) si propone una frammentazione in due blocchi, utilizzandone una parte da trasformare in una grande serra.  \n<br><br>\nIl mix funzionale pensato per l'ex stabilimento Gres, comprende una serie di attività legate al benessere fisico e psicologico dell'individuo. All'interno degli edifici si prevedono attrezzature sportive di diversi tipi: da quelli più tradizionali, come basket, volley e calcetto, fino a palestre per arti marziali e attività più innovative, come skate park, <i>parkour</i> e una parete da arrampicata. Affiancate a queste attività sono progettate funzioni di altro tipo necessarie per diversificare l'offerta ed occupare gli spazi dell'ex stabilimento durante tutto l'arco della giornata. Un centro benessere con spa e aree ristoro occuperà l'edificio multipiano, affiancato da locali notturni e spazi al servizio dei cittadini nel piccolo fabbricato di ingresso al sito. Una serie di atelier per artisti si affacceranno su un grande spazio espositivo ricavato nell'edificio a triple altezze. \nPer quanto riguarda le aree esterne, si prospetta la creazione di una grande piazza semicoperta dove poter ospitare eventi di vario tipo. Completa il tutto un paesaggio creato da tribune scavate e rialzate che attraverso un sistema diffuso del verde crea un ambiente estremamente piacevole e confortevole. La visione è il tema dello sport per tutti, con una serie di percorsi benessere che si sviluppano nel parco, dove trovano spazio anche le discipline più classiche.\n<br><br>\n<TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/funzioni_400x300.jpg\" WIDTH=400 HEIGHT=250 ALT=></TD><br>\n<head>\n<style type=\"text/css\">\n.box {\nwidth:410px;\nheight: auto;\nborder: 0 px solid;\ncolor: #000000;\nbackground: transparent;\ntext-align: justify;\nline-height: auto;\n}\n</style>\n</head>\n</div> </body>"
+            }
+        }
+    ]
+}
