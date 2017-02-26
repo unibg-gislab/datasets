@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.656810517435277,
+                    45.67756710054703,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "INTERVENTO",
+                "styleUrl": "#msn_shaded_dot",
+                "styleHash": "-69e4ebfb",
+                "styleMapHash": {
+                    "normal": "#sn_shaded_dot",
+                    "highlight": "#sh_shaded_dot"
+                },
+                "description": "<FONT SIZE=\"3,5\"><br>\n<TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/demolizioni_400x300.jpg\" WIDTH=400 HEIGHT=280 ALT=>                                                             </TD><br><br>\n<body><div class=\"box\"><br>\n<a href=\"http://www.rifoit.org/rifo3d/area_ex_gres/link_kml/intervento_link.html\" target=\"_blank\">APRI</a><br><br>\nL'intervento si propone la conservazione della maggior parte dei &nbsp capannoni industriali, con eccezione delle parti più fatiscenti e non &nbsp facilmemte recuperabili. In particolare, si è deciso di demolire quelle &nbsp parti ancora rimaste della zona centrale dell'area di intervento in modo &nbsp da liberare spazio per la grande piazza coperta che diventerà il fulcro del &nbsp nuovo intervento.\nPer quanto rigurda il recupero dei capannoni esistenti, &nbsp si propone un risanamento \"leggero\" adottando solamente interventi &nbsp necessari alla messa in sicurezza dell'esistente. Solamente per un &nbsp edificio (quello più meridionale dell'area) si propone una &nbsp frammentazione in due blocchi, utilizzandone una parte da trasformare &nbsp in una grande serra.<br><br><head>\n<style type=\"text/css\">\n.box {\nwidth:420px;\nheight: auto;\nborder: 0 px solid;\ncolor: #000000;\nbackground: transparent;\ntext-align: justify;\nline-height: auto;\n}\n</style>\n</head>\n</div></body>\n<TD><center> <img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/diagrammafunzionale_400x300.jpg\" WIDTH=400 HEIGHT=280 ALT=></center> </TD><br>\n<body> <div class=\"box\"><br>\nIl mix funzionale pensato per l'ex stabilimento Gres, comprende una &nbsp serie di attività legate al benessere fisico e psicologico dell'individuo. &nbsp&nbsp All'interno degli edifici si prevedono attrezzature sportive di diversi tipi: &nbsp da quelli più tradizionali, come basket, volley e calcetto, fino a palestre &nbsp per arti marziali e attività più innovative, come skate park, parkour e una &nbsp parete da arrampicata. Affiancate a queste attività si trovano funzioni di &nbsp  diverso tipo necessarie per diversificare l'offerta ed occupare gli spazi &nbsp dell'ex stabilimento durante tutto l'arco della giornata. Un centro &nbsp  benessere con spa e aree ristoro occuperà l'edificio multipiano, locali &nbsp otturni e spazi al servizio dei cittadini si insedieranno nel piccolo &nbsp fabbricato di ingresso al sito, mentre una serie di atelier per artisti si &nbsp  affacceranno su un grande spazio espositivo ricavato nell'edificio a &nbsp triple altezze.\nPer quanto riguarda le aree esterne, si è pensato di creare &nbsp una grande piazza semicoperta dove poter ospitare eventi di vario tipo. &nbsp Un paesaggio creato da tribune scavate e rialzate che attraverso un &nbsp sistema diffuso del verde crea un ambiente estremamente piacevole e &nbsp confortevole. Anche qui ritorna il tema dello sport per tutti, con una &nbsp serie di percorsi benessere che si sviluppano nel parco, dove trovano &nbsp spazio anche le discipline più classiche.\n<br><br> \n<TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/funzioni_400x300.jpg\" WIDTH=400 HEIGHT=280 ALT=></TD><br>\n<head>\n<style type=\"text/css\">\n.box {\nwidth:420px;\nheight: auto;\nborder: 0 px solid;\ncolor: #000000;\nbackground: transparent;\ntext-align: justify;\nline-height: auto;\n}\n</style>\n</head>\n</div> </body>"
+            }
+        }
+    ]
+}

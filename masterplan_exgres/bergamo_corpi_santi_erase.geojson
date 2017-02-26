@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.66035517774555,
+                    45.6725316487432,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " Colognola",
+                "styleUrl": "#msn_ylw-pushpin0001",
+                "styleHash": "-4fa7a44d",
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin10",
+                    "highlight": "#sh_ylw-pushpin0101"
+                },
+                "description": "<FONT SIZE=\"3,5\"><br>\n<TD><img src=\"https://sites.google.com/site/areaexgres/corpi-santi/colognola1.png\" WIDTH=180 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/areaexgres/corpi-santi/colognola2.png\" WIDTH=180 HEIGHT=150 ALT=></TD><br>\n<body> <div class=\"box\"><br>\n<b></b> Colognola, il Corpo Santo a cui apparteneva l'area dell'ex Gres, mantiene ancora oggi la struttura insediativa compatta dei borghi rurali della pianura, delimitata da fossi e da strade che ricalcano l'antico recinto del centro storico. La presenza di un nucleo urbano nella zona è documentata fin dal 1173 e la sua nascita potrebbe essere collegata alla realizzazione di un processo di bonifica e di riordino generale di questa porzione del territorio. I caratteri dell'edificato rispecchiano ancora le tipologie a corte di dimensioni omogenee, costituite da ambiti abitati, con stalle, portici, aia, che creano una cortina omogenea lungo le vie interne. Non mancano emergenze architettoniche che rispecchiano la stratificazione dei domini, tra cui le case medievali fortificate dei Suardi e la settecentesca Villa Tasca, ora sede dell'Istituto delle Suore Sacramentine. Lungo i percorsi delle rogge Guidana e Morlana, esterni al recinto abitato, si trovavano diversi insediamenti produttivi, alcuni risalenti al XIII secolo. Nel 1887 sorgono gli stabilimenti industriali della Società del Gres e viene costruito il “Palazzo Nuovo”, in stile Liberty, con alloggi destinati agli operai.<br><br>\n<head>\n<style type=\"text/css\">\n.box {\nwidth:370px;\nheight: auto;\nborder: 0 px solid;\ncolor: #000000;\nbackground: transparent;\ntext-align: justify;\nline-height: auto;\n}\n</style>\n</head>\n</div> </body>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.639507042919968,
+                    45.66709415105931,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Grumello del Piano",
+                "styleUrl": "#msn_ylw-pushpin0000",
+                "styleHash": "445e0952",
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin11",
+                    "highlight": "#sh_ylw-pushpin0100"
+                },
+                "description": "<FONT SIZE=\"3,5\"><br>\n<TD><img src=\"https://sites.google.com/site/areaexgres/corpi-santi/GrumelloDP_Torre.png\" WIDTH=180 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/areaexgres/corpi-santi/GrumelloDP_rustico.png\" WIDTH=180 HEIGHT=150 ALT=></TD><br>\n<body> <div class=\"box\"><br>\n<b></b>Grumello al Piano era, fin dal Medioevo, uno dei Corpi Santi della città. Nonostante l'intensa urbanizzazione che ha interessato questa parte di città nella seconda metà del XX secolo, in particolare con la costruzione di edilizia popolare, il territorio conserva ancora oggi segni riconducibili alla propria vocazione rurale, quali numerose abitazioni in <i>borlanti</i> e estesi campi ai margini dell’abitato, costellati da piccole fattorie e cascinali.<br>\n <br><br>\n<head>\n<style type=\"text/css\">\n.box {\nwidth:370px;\nheight: auto;\nborder: 0 px solid;\ncolor: #000000;\nbackground: transparent;\ntext-align: justify;\nline-height: auto;\n}\n</style>\n</head>\n</div> </body>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.679949754074126,
+                    45.67995023892478,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Campagnola",
+                "styleUrl": "#msn_ylw-pushpin000",
+                "styleHash": "-216ff30d",
+                "styleMapHash": {
+                    "normal": "#sn_ylw-pushpin1",
+                    "highlight": "#sh_ylw-pushpin010"
+                },
+                "description": "<FONT SIZE=\"3,5\"><br>\n<TD><img src=\"https://sites.google.com/site/areaexgres/corpi-santi/campagnola3.png\" WIDTH=180 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/areaexgres/corpi-santi/campagnola2.png\" WIDTH=180 HEIGHT=150 ALT=></TD><br>\n<body> <div class=\"box\"><br>\n<b></b>Campagnola, uno dei Corpi Santi della città, conserva ancora oggi la struttura del borgo. Qui anticamente sorgeva un castello, di cui oggi rimangono solo poche tracce nei muri in <i>borlanti</i> delle case e in una struttura a torre ancora  riconoscibile. <br> L'attuale via dei prati, che fin dal Medioevo conduceva dal castello ai campi, testimonia la vocazione agricola di quest'area. In particolare, il disegno del tessuto agricolo locale, costituito da lunghe pezze rettangolari orientate da est verso ovest, è l'esito del duecentesco intervento di bonifica comunale che mise a coltura gli incolti dell’antica corte Murgola, deviando il corso del Torrente Morla. <br><br>\n<head>\n<style type=\"text/css\">\n.box {\nwidth:370px;\nheight: auto;\nborder: 0 px solid;\ncolor: #000000;\nbackground: transparent;\ntext-align: justify;\nline-height: auto;\n}\n</style>\n</head>\n</div> </body>"
+            }
+        }
+    ]
+}

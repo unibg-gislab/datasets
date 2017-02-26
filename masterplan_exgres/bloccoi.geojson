@@ -1,0 +1,75 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.66034880864084,
+                            45.6778790714542,
+                            13.69
+                        ],
+                        [
+                            9.66035385490587,
+                            45.677884529276,
+                            13.69
+                        ],
+                        [
+                            9.6604664987887,
+                            45.6780063684901,
+                            13.69
+                        ],
+                        [
+                            9.66032245790408,
+                            45.67807174851381,
+                            13.69
+                        ],
+                        [
+                            9.66022340226931,
+                            45.6779658372888,
+                            13.69
+                        ],
+                        [
+                            9.66020423933588,
+                            45.6779453492999,
+                            13.69
+                        ],
+                        [
+                            9.66022619597991,
+                            45.6779352837231,
+                            13.69
+                        ],
+                        [
+                            9.66027693285952,
+                            45.6779120218017,
+                            13.69
+                        ],
+                        [
+                            9.66034880864084,
+                            45.6778790714542,
+                            13.69
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "BLOCCO I",
+                "styleUrl": "#trb2331024",
+                "styleHash": "5708f727",
+                "styleMapHash": {
+                    "normal": "#trb2221019",
+                    "highlight": "#trb2611014"
+                },
+                "description": "<FONT SIZE=\"3,5\"><br>\n<body><div class=\"box\">\n<b><i>ANALISI:</i></b><br>\nBLOCCO MONOPIANO<br>\nFunzione: <b>SPORT</b><br>\nSuperficie: <b>350mq</b><br>\nAttività: <b> palestra per arrampicata</b><br><br>\n<a href=\"http://www.rifoit.org/rifo3d/area_ex_gres/link_kml/i.html\">APRI</a><br><br>\n<TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/bloccoi1.jpg\" WIDTH=400 HEIGHT=300 ALT=></TD><br><br>\n<TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/bloccoi2.jpg\" WIDTH=400 HEIGHT=300 ALT=></TD><br><br>\n<TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/bloccoi_3.jpg\" WIDTH=400 HEIGHT=300 ALT=></TD><br><br>\n<br/>\n<head>\n<style type=\"text/css\">\n.box {\nwidth:400px;\nheight: auto;\nborder: 0 px solid;\ncolor: #000000;\nbackground: transparent;\ntext-align: justify;\nline-height: auto;\n}\n</style>\n</head>\n</div> </body>",
+                "stroke": "#363636",
+                "stroke-opacity": 1,
+                "fill": "#454545",
+                "fill-opacity": 1
+            },
+            "id": "44"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.656810517435277,
+                    45.67756710054703,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "INTERVENTO",
+                "styleUrl": "#msn_shaded_dot",
+                "styleHash": "-5b7f921c",
+                "styleMapHash": {
+                    "normal": "#sn_shaded_dot",
+                    "highlight": "#sh_shaded_dot"
+                },
+                "description": "<FONT SIZE=\"3,5\"><br>\n<TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/demolizioni.jpg\" WIDTH=650 HEIGHT=500 ALT=></TD><br><br>\n<body> <div class=\"box\"><br>\nL'intervento si propone la conservazione della maggior parte dei capannoni industriali, con eccezione delle parti più fatiscenti e non facilmemte recuperabili. In particolare, si è deciso di demolire quelle parti ancora rimaste della zona centrale dell'area di intervento in modo da liberare spazio per la grande piazza coperta che diventerà il fulcro del nuovo intervento.\nPer quanto rigurda il recupero dei capannoni esistenti, si propone un risanamento \"leggero\" adottando solamente interventi necessari alla messa in sicurezza dell'esistente. Solamente per un edificio (quello più meridionale dell'area) si propone una frammentazione in due blocchi, utilizzandone una parte da trasformare in una grande serra.<br><br><head>\n<style type=\"text/css\">\n.box {\nwidth:600px;\nheight: auto;\nborder: 0 px solid;\ncolor: #000000;\nbackground: transparent;\ntext-align: justify;\nline-height: auto;\n}\n</style>\n</head>\n</div></body>\n<TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/diagrammafunzionale.jpg\" WIDTH=600 HEIGHT=500 ALT=></TD><br>\n<body> <div class=\"box\"><br>\nIl mix funzionale pensato per l'ex stabilimento Gres, comprende una serie di attività legate al benessere fisico e psicologico dell'individuo. All'interno degli edifici si prevedono attrezzature sportive di diversi tipi: da quelli più tradizionali, come basket, volley e calcetto, fino a palestre per arti marziali e attività più innovative, come skate park, parkour e una parete da arrampicata. Affiancate a queste attività si trovano funzioni di diverso tipo necessarie per diversificare l'offerta ed occupare gli spazi dell'ex stabilimento durante tutto l'arco della giornata. Un centro benessere con spa e aree ristoro occuperà l'edificio multipiano, locali notturni e spazi al servizio dei cittadini si insedieranno nel piccolo fabbricato di ingresso al sito, mentre una serie di atelier per artisti si affacceranno su un grande spazio espositivo ricavato nell'edificio a triple altezze.\nPer quanto riguarda le aree esterne, si è pensato di creare una grande piazza semicoperta dove poter ospitare eventi di vario tipo. Un paesaggio creato da tribune scavate e rialzate che attraverso un sistema diffuso del verde crea un ambiente estremamente piacevole e confortevole. Anche qui ritorna il tema dello sport per tutti, con una serie di percorsi benessere che si sviluppano nel parco, dove trovano spazio anche le discipline più classiche.\n<br><br>\n<TD><img src=\"https://sites.google.com/site/areaexgres/edifici-in-progetto/funzioni.jpg\" WIDTH=650 HEIGHT=450 ALT=></TD><br>\n<head>\n<style type=\"text/css\">\n.box {\nwidth:600px;\nheight: auto;\nborder: 0 px solid;\ncolor: #000000;\nbackground: transparent;\ntext-align: justify;\nline-height: auto;\n}\n</style>\n</head>\n</div> </body>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.657408040990692,
+                    45.67824176167744,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "ANALISI",
+                "styleUrl": "#msn_shaded_dot0",
+                "styleHash": "6892ac80",
+                "styleMapHash": {
+                    "normal": "#sn_shaded_dot0",
+                    "highlight": "#sh_shaded_dot0"
+                },
+                "description": "<FONT SIZE=\"3,5\"><br>\n<TD><img src=\"https://sites.google.com/site/areaexgres/area-ex-gres/exgres_oggi_bing.png\" WIDTH=325 HEIGHT=250 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/areaexgres/area-ex-gres/exgres_futuro.png\" WIDTH=325 HEIGHT=250 ALT=></TD><br>\n<body> <div class=\"box\"><br>\n<b></b> L’area di progetto è collocata nella parte meridionale di Bergamo, ai confini dell’area urbanizzata della città. La zona è caratterizzata da un mix funzionale di residenze e aree industriali, in cui spicca la presenza dei Corpi Santi come polarità intermedie fra la campagna e il centro. La criticitá piú evidente della zona risulta essere la frattura dei tessuti urbani principali: ferrovia, autostrada e circonvallazione, che rendono l’area ex-Gres una sorta di isola urbana collegata solamente a Via S.Bernardino.\nQuesto percorso storico mette in connessione le aree agricole con Cittá Alta passando per il Corpo Santo di Colognola che nel passato ha prima funzionato come centro produttivo per le ortaglie consumate nella cittá, poi come centro residenziale per i lavoratori della fabbrica del Gres.\n<br><br>\n<head>\n<style type=\"text/css\">\n.box {\nwidth:600px;\nheight: auto;\nborder: 0 px solid;\ncolor: #000000;\nbackground: transparent;\ntext-align: justify;\nline-height: auto;\n}\n</style>\n</head>\n</div> </body>"
+            }
+        }
+    ]
+}
