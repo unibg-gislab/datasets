@@ -1,0 +1,2812 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64314258873772,
+                            45.6802989301106,
+                            14.519
+                        ],
+                        [
+                            9.64308994683424,
+                            45.6802395535325,
+                            14.519
+                        ],
+                        [
+                            9.643039674373,
+                            45.6801828516029,
+                            14.519
+                        ],
+                        [
+                            9.64307508195467,
+                            45.6801665496644,
+                            14.519
+                        ],
+                        [
+                            9.64306361558356,
+                            45.6801520331359,
+                            14.519
+                        ],
+                        [
+                            9.64313874082846,
+                            45.6801191258587,
+                            14.519
+                        ],
+                        [
+                            9.64314379318125,
+                            45.68012483271421,
+                            14.519
+                        ],
+                        [
+                            9.64326595878051,
+                            45.6802628616559,
+                            14.519
+                        ],
+                        [
+                            9.64319213991426,
+                            45.68029658953979,
+                            14.519
+                        ],
+                        [
+                            9.64317894411512,
+                            45.6802824426054,
+                            14.519
+                        ],
+                        [
+                            9.64314258873772,
+                            45.6802989301106,
+                            14.519
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SANT'AMBROGIO, 48",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO275_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO275_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 82 <br>\n<b><i>Mappale:</i></b> 7427 <br>\n<b><i>Indirizzo:</i></b>Via Sant'ambrogio, 48<br>\n<b><i>Numero alloggi:</i></b> 8 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 2.636 m³<br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "45"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.636676828736634,
+                            45.69630797268736,
+                            14
+                        ],
+                        [
+                            9.636785044742751,
+                            45.69638594843472,
+                            14
+                        ],
+                        [
+                            9.6366978495311,
+                            45.69644331406266,
+                            14
+                        ],
+                        [
+                            9.636588121963548,
+                            45.6963693005709,
+                            14
+                        ],
+                        [
+                            9.636676828736634,
+                            45.69630797268736,
+                            14
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SAN MARTINO DELLA PIGRIZIA, 50",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<FONT SIZE=\"3,5\"><br>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO269.png\"WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO269_pigrizia.png\"WIDTH=200 HEIGHT=150 ALT=></TD><br>\n<b><i>Foglio: </i></b>45<br>\n<b><i>Mappale: </i></b>1972<br>\n<b><i>Indirizzo: </i></b>Via San Martino Della Pigrizia, 50<br>\n<b><i>Numero alloggi: </i></b>7<br><br/>\n<b>DEMOLIZIONE: <a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza: </i></b>elevato<br>\n<b><i>Stato locativo: </i></b>occupato<br>\n<b><i>Vincoli: </i></b>presente vincolo paesistico-ambientale<br>\n<b><i>Proprietà: </i></b>mista<br>\n<b><i>Dimensione: </i></b>2817 m³ m³<br>\n<b><i>Prefabbricazione pesante: </i></b>non presente<br><br/>\n<b>RICOSTRUZIONE: <a style=\"color:#00CC00\"\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse: </i></b>presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP): </i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate: </i></b>presenti<br>\n<b><i>Accessibilità viaria: </i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità: </i></b>basso<br>\n<div style=\"width:110%; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> End Dscription</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.636671885139583,
+                            45.69642541322879,
+                            13
+                        ],
+                        [
+                            9.636697755785008,
+                            45.69644420429873,
+                            13
+                        ],
+                        [
+                            9.636690204616578,
+                            45.69644823042202,
+                            13
+                        ],
+                        [
+                            9.63666425267662,
+                            45.69643015149014,
+                            13
+                        ],
+                        [
+                            9.636671885139583,
+                            45.69642541322879,
+                            13
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SAN MARTINO DELLA PIGRIZIA, 50",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67912294751905,
+                            45.698411081822,
+                            12.959
+                        ],
+                        [
+                            9.67909443785636,
+                            45.69841682316089,
+                            12.959
+                        ],
+                        [
+                            9.67908730183581,
+                            45.69840243564351,
+                            12.959
+                        ],
+                        [
+                            9.67901811343346,
+                            45.6982629604972,
+                            12.959
+                        ],
+                        [
+                            9.67901546622537,
+                            45.69825761176659,
+                            12.959
+                        ],
+                        [
+                            9.6789884893282,
+                            45.69820321938979,
+                            12.959
+                        ],
+                        [
+                            9.67897848304569,
+                            45.69818305596461,
+                            12.959
+                        ],
+                        [
+                            9.67896773910699,
+                            45.6981614087136,
+                            12.959
+                        ],
+                        [
+                            9.67895567943781,
+                            45.6981370884224,
+                            12.959
+                        ],
+                        [
+                            9.67901892234186,
+                            45.6981325197949,
+                            12.959
+                        ],
+                        [
+                            9.67903972576306,
+                            45.698131017058,
+                            12.959
+                        ],
+                        [
+                            9.67908384648838,
+                            45.6981316091909,
+                            12.959
+                        ],
+                        [
+                            9.67916895072055,
+                            45.69813274945799,
+                            12.959
+                        ],
+                        [
+                            9.6794278406266,
+                            45.698117337977,
+                            12.959
+                        ],
+                        [
+                            9.67946643195529,
+                            45.6981936766161,
+                            12.959
+                        ],
+                        [
+                            9.67949299734454,
+                            45.6982462265829,
+                            12.959
+                        ],
+                        [
+                            9.67945479275058,
+                            45.6982522597926,
+                            12.959
+                        ],
+                        [
+                            9.67944710098647,
+                            45.6982534757462,
+                            12.959
+                        ],
+                        [
+                            9.67939647442412,
+                            45.6982614639353,
+                            12.959
+                        ],
+                        [
+                            9.67939443375328,
+                            45.6982476218118,
+                            12.959
+                        ],
+                        [
+                            9.67938974282786,
+                            45.6982158254032,
+                            12.959
+                        ],
+                        [
+                            9.67936959044357,
+                            45.69820635967301,
+                            12.959
+                        ],
+                        [
+                            9.679206082926,
+                            45.6982163522509,
+                            12.959
+                        ],
+                        [
+                            9.67916576938348,
+                            45.6982267829022,
+                            12.959
+                        ],
+                        [
+                            9.67908755092876,
+                            45.69824702113451,
+                            12.959
+                        ],
+                        [
+                            9.67915121694281,
+                            45.69838143271941,
+                            12.959
+                        ],
+                        [
+                            9.67916157000061,
+                            45.69840329158571,
+                            12.959
+                        ],
+                        [
+                            9.67912294751905,
+                            45.698411081822,
+                            12.959
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA BORGO PALAZZO, 16",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO18_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO18_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 40 <br>\n<b><i>Mappale:</i></b> 1205 <br>\n<b><i>Indirizzo:</i></b>Via Borgo Palazzo, 16<br>\n<b><i>Numero alloggi:</i></b> 28 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>basso<br>\n<b><i>Stato locativo:</i></b>occupato<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 13085 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">alta</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>si<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "223"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67962230877554,
+                            45.6982571388363,
+                            6.528999999999999
+                        ],
+                        [
+                            9.67964197378055,
+                            45.6982444391523,
+                            6.528999999999999
+                        ],
+                        [
+                            9.67972449952881,
+                            45.69828966502269,
+                            6.528999999999999
+                        ],
+                        [
+                            9.67986725900727,
+                            45.698367901523,
+                            6.528999999999999
+                        ],
+                        [
+                            9.67988712537945,
+                            45.6983787895085,
+                            6.528999999999999
+                        ],
+                        [
+                            9.67985553866541,
+                            45.69838666221109,
+                            6.528999999999999
+                        ],
+                        [
+                            9.67978530724338,
+                            45.69840416969679,
+                            6.528999999999999
+                        ],
+                        [
+                            9.67968459810962,
+                            45.6984292718029,
+                            6.528999999999999
+                        ],
+                        [
+                            9.67955100539816,
+                            45.69846257114379,
+                            6.528999999999999
+                        ],
+                        [
+                            9.67953516670058,
+                            45.698426421016,
+                            6.528999999999999
+                        ],
+                        [
+                            9.6795218034269,
+                            45.698395929366,
+                            6.528999999999999
+                        ],
+                        [
+                            9.67951915645587,
+                            45.6983898928529,
+                            6.528999999999999
+                        ],
+                        [
+                            9.6797100606664,
+                            45.69834169073531,
+                            6.528999999999999
+                        ],
+                        [
+                            9.67962503962183,
+                            45.6982896242742,
+                            6.528999999999999
+                        ],
+                        [
+                            9.67964477763193,
+                            45.6982850151095,
+                            6.528999999999999
+                        ],
+                        [
+                            9.67962230877554,
+                            45.6982571388363,
+                            6.528999999999999
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA BORGO PALAZZO, 16",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO18_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO18_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 40 <br>\n<b><i>Mappale:</i></b> 1205 <br>\n<b><i>Indirizzo:</i></b>Via Borgo Palazzo, 16<br>\n<b><i>Numero alloggi:</i></b> 28 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>basso<br>\n<b><i>Stato locativo:</i></b>occupato<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 13085 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">alta</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>si<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "225"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67955100539816,
+                            45.69846257114379,
+                            9.349
+                        ],
+                        [
+                            9.67938352304309,
+                            45.6985043180622,
+                            9.349
+                        ],
+                        [
+                            9.67925475804097,
+                            45.6985364132242,
+                            9.349
+                        ],
+                        [
+                            9.67925301893124,
+                            45.6985368465876,
+                            9.349
+                        ],
+                        [
+                            9.67921564074308,
+                            45.6985175394701,
+                            9.349
+                        ],
+                        [
+                            9.67920860640909,
+                            45.6985189904629,
+                            9.349
+                        ],
+                        [
+                            9.67918402706207,
+                            45.6984706537244,
+                            9.349
+                        ],
+                        [
+                            9.67919254225304,
+                            45.6984686786164,
+                            9.349
+                        ],
+                        [
+                            9.67919664390214,
+                            45.6984773384536,
+                            9.349
+                        ],
+                        [
+                            9.67925916065341,
+                            45.6984630185064,
+                            9.349
+                        ],
+                        [
+                            9.67933991462861,
+                            45.69844451806101,
+                            9.349
+                        ],
+                        [
+                            9.67942964295697,
+                            45.6984239627861,
+                            9.349
+                        ],
+                        [
+                            9.67942656867109,
+                            45.6984148815225,
+                            9.349
+                        ],
+                        [
+                            9.67946651173346,
+                            45.6984041486425,
+                            9.349
+                        ],
+                        [
+                            9.67950760324385,
+                            45.6983930221559,
+                            9.349
+                        ],
+                        [
+                            9.67951915645587,
+                            45.6983898928529,
+                            9.349
+                        ],
+                        [
+                            9.6795218034269,
+                            45.698395929366,
+                            9.349
+                        ],
+                        [
+                            9.67953516670058,
+                            45.698426421016,
+                            9.349
+                        ],
+                        [
+                            9.67955100539816,
+                            45.69846257114379,
+                            9.349
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA BORGO PALAZZO, 16",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO18_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO18_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 40 <br>\n<b><i>Mappale:</i></b> 1205 <br>\n<b><i>Indirizzo:</i></b>Via Borgo Palazzo, 16<br>\n<b><i>Numero alloggi:</i></b> 28 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>basso<br>\n<b><i>Stato locativo:</i></b>occupato<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 13085 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">alta</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>si<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "229"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67943478245348,
+                            45.69833926226639,
+                            3.429
+                        ],
+                        [
+                            9.67940326684204,
+                            45.69834608349689,
+                            3.429
+                        ],
+                        [
+                            9.67938500287013,
+                            45.6982921612083,
+                            3.429
+                        ],
+                        [
+                            9.67937906928908,
+                            45.6982591317459,
+                            3.429
+                        ],
+                        [
+                            9.67936959044357,
+                            45.69820635967301,
+                            3.429
+                        ],
+                        [
+                            9.67938974282786,
+                            45.6982158254032,
+                            3.429
+                        ],
+                        [
+                            9.67939443375328,
+                            45.6982476218118,
+                            3.429
+                        ],
+                        [
+                            9.67939647442412,
+                            45.6982614639353,
+                            3.429
+                        ],
+                        [
+                            9.67943478245348,
+                            45.69833926226639,
+                            3.429
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA BORGO PALAZZO, 16",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "222"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67948615349466,
+                            45.6983280745536,
+                            9.999999999999998
+                        ],
+                        [
+                            9.67943478245348,
+                            45.69833926226639,
+                            9.999999999999998
+                        ],
+                        [
+                            9.67939647442412,
+                            45.6982614639353,
+                            9.999999999999998
+                        ],
+                        [
+                            9.67944710098647,
+                            45.6982534757462,
+                            9.999999999999998
+                        ],
+                        [
+                            9.67945479275058,
+                            45.6982522597926,
+                            9.999999999999998
+                        ],
+                        [
+                            9.67949299734454,
+                            45.6982462265829,
+                            9.999999999999998
+                        ],
+                        [
+                            9.67959383279805,
+                            45.6982159143238,
+                            9.999999999999998
+                        ],
+                        [
+                            9.67962230877554,
+                            45.6982571388363,
+                            9.999999999999998
+                        ],
+                        [
+                            9.67964477763193,
+                            45.6982850151095,
+                            9.999999999999998
+                        ],
+                        [
+                            9.67962503962183,
+                            45.6982896242742,
+                            9.999999999999998
+                        ],
+                        [
+                            9.67948615349466,
+                            45.6983280745536,
+                            9.999999999999998
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA BORGO PALAZZO, 16",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "221"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67951915645587,
+                            45.6983898928529,
+                            7.349
+                        ],
+                        [
+                            9.67950760324385,
+                            45.6983930221559,
+                            7.349
+                        ],
+                        [
+                            9.67946651173346,
+                            45.6984041486425,
+                            7.349
+                        ],
+                        [
+                            9.67942656867109,
+                            45.6984148815225,
+                            7.349
+                        ],
+                        [
+                            9.67941257322723,
+                            45.6983735580741,
+                            7.349
+                        ],
+                        [
+                            9.67940326684204,
+                            45.69834608349689,
+                            7.349
+                        ],
+                        [
+                            9.67943478245348,
+                            45.69833926226639,
+                            7.349
+                        ],
+                        [
+                            9.67948615349466,
+                            45.6983280745536,
+                            7.349
+                        ],
+                        [
+                            9.67951915645587,
+                            45.6983898928529,
+                            7.349
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA BORGO PALAZZO, 16",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "224"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67915826797044,
+                            45.6984766215154,
+                            5.92
+                        ],
+                        [
+                            9.67912622089205,
+                            45.6984840402379,
+                            5.92
+                        ],
+                        [
+                            9.67909443785636,
+                            45.69841682316089,
+                            5.92
+                        ],
+                        [
+                            9.67912294751905,
+                            45.698411081822,
+                            5.92
+                        ],
+                        [
+                            9.67915826797044,
+                            45.6984766215154,
+                            5.92
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA BORGO PALAZZO, 16",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "227"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67920860640909,
+                            45.6985189904629,
+                            10.24
+                        ],
+                        [
+                            9.6791481690466,
+                            45.6985314620459,
+                            10.24
+                        ],
+                        [
+                            9.67912622089205,
+                            45.6984840402379,
+                            10.24
+                        ],
+                        [
+                            9.67915826797044,
+                            45.6984766215154,
+                            10.24
+                        ],
+                        [
+                            9.67918402706207,
+                            45.6984706537244,
+                            10.24
+                        ],
+                        [
+                            9.67920860640909,
+                            45.6985189904629,
+                            10.24
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA BORGO PALAZZO, 16",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "228"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67918402706207,
+                            45.6984706537244,
+                            6.62
+                        ],
+                        [
+                            9.67915826797044,
+                            45.6984766215154,
+                            6.62
+                        ],
+                        [
+                            9.67912294751905,
+                            45.698411081822,
+                            6.62
+                        ],
+                        [
+                            9.67916157000061,
+                            45.69840329158571,
+                            6.62
+                        ],
+                        [
+                            9.67916654693432,
+                            45.69841379425719,
+                            6.62
+                        ],
+                        [
+                            9.67919254225304,
+                            45.6984686786164,
+                            6.62
+                        ],
+                        [
+                            9.67918402706207,
+                            45.6984706537244,
+                            6.62
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA BORGO PALAZZO, 16",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "226"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64770165475394,
+                            45.67884513209371,
+                            12.201
+                        ],
+                        [
+                            9.64771536078058,
+                            45.67886111158079,
+                            12.201
+                        ],
+                        [
+                            9.64775866850467,
+                            45.6788442145199,
+                            12.201
+                        ],
+                        [
+                            9.64781988400732,
+                            45.6789180417853,
+                            12.201
+                        ],
+                        [
+                            9.6477154756918,
+                            45.6789621984971,
+                            12.201
+                        ],
+                        [
+                            9.64765736985677,
+                            45.6788894401608,
+                            12.201
+                        ],
+                        [
+                            9.64764083332911,
+                            45.6788687351929,
+                            12.201
+                        ],
+                        [
+                            9.64764918088746,
+                            45.6788655015024,
+                            12.201
+                        ],
+                        [
+                            9.64766803860936,
+                            45.6788581829671,
+                            12.201
+                        ],
+                        [
+                            9.64768944759792,
+                            45.6788498726275,
+                            12.201
+                        ],
+                        [
+                            9.64770165475394,
+                            45.67884513209371,
+                            12.201
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SANT'AMBROGIO, 8,10,12",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO276_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO276_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 82 <br>\n<b><i>Mappale:</i></b> 7323 <br>\n<b><i>Indirizzo:</i></b>Via Sant'ambrogio, 8,10,12<br>\n<b><i>Numero alloggi:</i></b> 18 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 6.219 m³<br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "39"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64764083332911,
+                            45.6788687351929,
+                            10.391
+                        ],
+                        [
+                            9.6475937921243,
+                            45.67888700373619,
+                            10.391
+                        ],
+                        [
+                            9.64753725091169,
+                            45.678822054974,
+                            10.391
+                        ],
+                        [
+                            9.64753718577677,
+                            45.6788219795335,
+                            10.391
+                        ],
+                        [
+                            9.64753760766135,
+                            45.6788217974962,
+                            10.391
+                        ],
+                        [
+                            9.64757844065449,
+                            45.6788041042404,
+                            10.391
+                        ],
+                        [
+                            9.64764265525594,
+                            45.67877634302,
+                            10.391
+                        ],
+                        [
+                            9.6476807958373,
+                            45.6788208132461,
+                            10.391
+                        ],
+                        [
+                            9.64770165475394,
+                            45.67884513209371,
+                            10.391
+                        ],
+                        [
+                            9.64768944759792,
+                            45.6788498726275,
+                            10.391
+                        ],
+                        [
+                            9.64766803860936,
+                            45.6788581829671,
+                            10.391
+                        ],
+                        [
+                            9.64764918088746,
+                            45.6788655015024,
+                            10.391
+                        ],
+                        [
+                            9.64764083332911,
+                            45.6788687351929,
+                            10.391
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SANT'AMBROGIO, 8,10,12",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO276_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO276_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 82 <br>\n<b><i>Mappale:</i></b> 7323 <br>\n<b><i>Indirizzo:</i></b>Via Sant'ambrogio, 8,10,12<br>\n<b><i>Numero alloggi:</i></b> 18 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 6.219 m³<br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "37"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64764265525594,
+                            45.67877634302,
+                            12.09
+                        ],
+                        [
+                            9.64757844065449,
+                            45.6788041042404,
+                            12.09
+                        ],
+                        [
+                            9.64757224687525,
+                            45.6787968361786,
+                            12.09
+                        ],
+                        [
+                            9.6475230415336,
+                            45.6787390984485,
+                            12.09
+                        ],
+                        [
+                            9.64749905142572,
+                            45.678710946862,
+                            12.09
+                        ],
+                        [
+                            9.64755604019638,
+                            45.6786881396446,
+                            12.09
+                        ],
+                        [
+                            9.64757168365304,
+                            45.6787060342158,
+                            12.09
+                        ],
+                        [
+                            9.64761869261498,
+                            45.6786872258425,
+                            12.09
+                        ],
+                        [
+                            9.64763774817318,
+                            45.6787088344987,
+                            12.09
+                        ],
+                        [
+                            9.64765974675951,
+                            45.6787337824963,
+                            12.09
+                        ],
+                        [
+                            9.6476825887328,
+                            45.6787596881832,
+                            12.09
+                        ],
+                        [
+                            9.64764265525594,
+                            45.67877634302,
+                            12.09
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SANT'AMBROGIO, 8,10,12",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO276_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO276_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 82 <br>\n<b><i>Mappale:</i></b> 7323 <br>\n<b><i>Indirizzo:</i></b>Via Sant'ambrogio, 8,10,12<br>\n<b><i>Numero alloggi:</i></b> 18 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 6.219  m³<br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "34"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64749905142572,
+                            45.678710946862,
+                            10.46
+                        ],
+                        [
+                            9.64745521100174,
+                            45.678729557013,
+                            10.46
+                        ],
+                        [
+                            9.64740049414079,
+                            45.6786659948568,
+                            10.46
+                        ],
+                        [
+                            9.64739899995652,
+                            45.6786642607586,
+                            10.46
+                        ],
+                        [
+                            9.64743858869312,
+                            45.6786466647097,
+                            10.46
+                        ],
+                        [
+                            9.64745099256516,
+                            45.6786411127773,
+                            10.46
+                        ],
+                        [
+                            9.64748866408341,
+                            45.67862431043301,
+                            10.46
+                        ],
+                        [
+                            9.64749699278262,
+                            45.67862060001581,
+                            10.46
+                        ],
+                        [
+                            9.64754408981224,
+                            45.6786744706799,
+                            10.46
+                        ],
+                        [
+                            9.64755604019638,
+                            45.6786881396446,
+                            10.46
+                        ],
+                        [
+                            9.64749905142572,
+                            45.678710946862,
+                            10.46
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SANT'AMBROGIO, 8,10,12",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO276_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO276_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 82 <br>\n<b><i>Mappale:</i></b> 7323 <br>\n<b><i>Indirizzo:</i></b>Via Sant'ambrogio, 8,10,12<br>\n<b><i>Numero alloggi:</i></b> 18 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 6.219 m³<br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "33"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64749699278262,
+                            45.67862060001581,
+                            12.231
+                        ],
+                        [
+                            9.64748866408341,
+                            45.67862431043301,
+                            12.231
+                        ],
+                        [
+                            9.64745099256516,
+                            45.6786411127773,
+                            12.231
+                        ],
+                        [
+                            9.64743858869312,
+                            45.6786466647097,
+                            12.231
+                        ],
+                        [
+                            9.64735752750874,
+                            45.6785532376414,
+                            12.231
+                        ],
+                        [
+                            9.64736779716969,
+                            45.678548553188,
+                            12.231
+                        ],
+                        [
+                            9.64740730294951,
+                            45.6785304983511,
+                            12.231
+                        ],
+                        [
+                            9.64741659958475,
+                            45.678526251213,
+                            12.231
+                        ],
+                        [
+                            9.64743503858428,
+                            45.6785482973975,
+                            12.231
+                        ],
+                        [
+                            9.64747798770529,
+                            45.67853151070059,
+                            12.231
+                        ],
+                        [
+                            9.64754068053753,
+                            45.6786032328213,
+                            12.231
+                        ],
+                        [
+                            9.64749699278262,
+                            45.67862060001581,
+                            12.231
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SANT'AMBROGIO, 8,10,12",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO276_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO276_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 82 <br>\n<b><i>Mappale:</i></b> 7323 <br>\n<b><i>Indirizzo:</i></b>Via Sant'ambrogio, 8,10,12<br>\n<b><i>Numero alloggi:</i></b> 18 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 6219 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "30"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64735752750874,
+                            45.6785532376414,
+                            10.31
+                        ],
+                        [
+                            9.64731639740781,
+                            45.6785719317944,
+                            10.31
+                        ],
+                        [
+                            9.64729166514599,
+                            45.6785426125853,
+                            10.31
+                        ],
+                        [
+                            9.64726092585144,
+                            45.6785061720108,
+                            10.31
+                        ],
+                        [
+                            9.64736345574075,
+                            45.67846288172721,
+                            10.31
+                        ],
+                        [
+                            9.64736627357963,
+                            45.6784662426636,
+                            10.31
+                        ],
+                        [
+                            9.64739655447063,
+                            45.67850234575739,
+                            10.31
+                        ],
+                        [
+                            9.64741659958475,
+                            45.678526251213,
+                            10.31
+                        ],
+                        [
+                            9.64740730294951,
+                            45.6785304983511,
+                            10.31
+                        ],
+                        [
+                            9.64736779716969,
+                            45.678548553188,
+                            10.31
+                        ],
+                        [
+                            9.64735752750874,
+                            45.6785532376414,
+                            10.31
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SANT'AMBROGIO, 8,10,12",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO276_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO276_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 82 <br>\n<b><i>Mappale:</i></b> 7323 <br>\n<b><i>Indirizzo:</i></b>Via Sant'ambrogio, 8,10,12<br>\n<b><i>Numero alloggi:</i></b> 18 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 6219 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "29"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.63886960687419,
+                            45.66772675135831,
+                            10.25
+                        ],
+                        [
+                            9.63881842265117,
+                            45.6677290179014,
+                            10.25
+                        ],
+                        [
+                            9.6388134038807,
+                            45.66766800846441,
+                            10.25
+                        ],
+                        [
+                            9.63881110935352,
+                            45.6676401312443,
+                            10.25
+                        ],
+                        [
+                            9.63881037623126,
+                            45.6676312158907,
+                            10.25
+                        ],
+                        [
+                            9.63883425402299,
+                            45.6676305075438,
+                            10.25
+                        ],
+                        [
+                            9.63886273599031,
+                            45.6676296624353,
+                            10.25
+                        ],
+                        [
+                            9.63888756403214,
+                            45.6676285240982,
+                            10.25
+                        ],
+                        [
+                            9.63894344386106,
+                            45.6676259702758,
+                            10.25
+                        ],
+                        [
+                            9.63894736635616,
+                            45.6676807033318,
+                            10.25
+                        ],
+                        [
+                            9.63894968695383,
+                            45.6677130626553,
+                            10.25
+                        ],
+                        [
+                            9.63894992952506,
+                            45.66772197196521,
+                            10.25
+                        ],
+                        [
+                            9.63889532923474,
+                            45.6677252212602,
+                            10.25
+                        ],
+                        [
+                            9.63886960687419,
+                            45.66772675135831,
+                            10.25
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PERRUCCHETTI, 1,3",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO221.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO221_perrucchetti.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 108 <br>\n<b><i>Mappale:</i></b> 317 <br>\n<b><i>Indirizzo:</i></b>Via Perrucchetti, 1,3,5<br>\n<b><i>Numero alloggi:</i></b> 14 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 5198 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "6"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.66429300331926,
+                            45.70395473426749,
+                            15.319
+                        ],
+                        [
+                            9.66433849328935,
+                            45.7039959244347,
+                            15.319
+                        ],
+                        [
+                            9.66425023190399,
+                            45.7040374096054,
+                            15.319
+                        ],
+                        [
+                            9.66419512562094,
+                            45.7040062209866,
+                            15.319
+                        ],
+                        [
+                            9.66429300331926,
+                            45.70395473426749,
+                            15.319
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SAN LORENZO, 5",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO267_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO267_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 37 <br>\n<b><i>Mappale:</i></b> 563 <br>\n<b><i>Indirizzo:</i></b>Via San Lorenzo, 5<br>\n<b><i>Numero alloggi:</i></b> 6 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>occupato<br>\n<b><i>Vincoli:</i></b>presenti vincoli paesistico ambientali: Vincolo L. 431/85 - Parchi o riserve nazionali e regionali istituiti (art. 1.f.)<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 2940 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">alta</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>si<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "255"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.66429300331926,
+                            45.70395473426749,
+                            16.48
+                        ],
+                        [
+                            9.66419512562094,
+                            45.7040062209866,
+                            16.48
+                        ],
+                        [
+                            9.66417508477648,
+                            45.7039948797237,
+                            16.48
+                        ],
+                        [
+                            9.66406760916978,
+                            45.70393405596229,
+                            16.48
+                        ],
+                        [
+                            9.664123349411,
+                            45.7039027602577,
+                            16.48
+                        ],
+                        [
+                            9.6641307935223,
+                            45.7038989455691,
+                            16.48
+                        ],
+                        [
+                            9.66419613913671,
+                            45.703872741935,
+                            16.48
+                        ],
+                        [
+                            9.66421978820357,
+                            45.7038954663056,
+                            16.48
+                        ],
+                        [
+                            9.66423573721382,
+                            45.7039078158384,
+                            16.48
+                        ],
+                        [
+                            9.6642733200999,
+                            45.7039369173047,
+                            16.48
+                        ],
+                        [
+                            9.66429300331926,
+                            45.70395473426749,
+                            16.48
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SAN LORENZO, 5",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO267_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO267_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 37 <br>\n<b><i>Mappale:</i></b> 563 <br>\n<b><i>Indirizzo:</i></b>Via San Lorenzo, 5<br>\n<b><i>Numero alloggi:</i></b> 6 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>occupato<br>\n<b><i>Vincoli:</i></b>presenti vincoli paesistico ambientali: Vincolo L. 431/85 - Parchi o riserve nazionali e regionali istituiti (art. 1.f.)<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 2940 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">alta</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>si<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "254"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67512387084878,
+                            45.6991624779301,
+                            17.19
+                        ],
+                        [
+                            9.67512019601474,
+                            45.6991662314738,
+                            17.19
+                        ],
+                        [
+                            9.6750955695073,
+                            45.69914873568109,
+                            17.19
+                        ],
+                        [
+                            9.67503452473967,
+                            45.6991053608855,
+                            17.19
+                        ],
+                        [
+                            9.67500876350615,
+                            45.6990870548934,
+                            17.19
+                        ],
+                        [
+                            9.67497574237195,
+                            45.6990659994639,
+                            17.19
+                        ],
+                        [
+                            9.67503912750876,
+                            45.69902612052609,
+                            17.19
+                        ],
+                        [
+                            9.67516718594304,
+                            45.6991183107579,
+                            17.19
+                        ],
+                        [
+                            9.67512387084878,
+                            45.6991624779301,
+                            17.19
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PIGNOLO, 40, 42",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO226_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO226_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 39 <br>\n<b><i>Mappale:</i></b> 1554 <br>\n<b><i>Indirizzo:</i></b>Via Pignolo, 42<br>\n<b><i>Numero alloggi:</i></b> 13 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>basso<br>\n<b><i>Stato locativo:</i></b>occupato<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 7185 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">alta</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>si<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "237"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67512731532308,
+                            45.698957445148,
+                            15.849
+                        ],
+                        [
+                            9.67517244682736,
+                            45.6989248059508,
+                            15.849
+                        ],
+                        [
+                            9.67518664269261,
+                            45.6989145384582,
+                            15.849
+                        ],
+                        [
+                            9.67520216307294,
+                            45.69892955724381,
+                            15.849
+                        ],
+                        [
+                            9.67528880705426,
+                            45.6990133917343,
+                            15.849
+                        ],
+                        [
+                            9.67523366906823,
+                            45.6990543921194,
+                            15.849
+                        ],
+                        [
+                            9.67521845468604,
+                            45.69906881824879,
+                            15.849
+                        ],
+                        [
+                            9.67520780196012,
+                            45.69907891754319,
+                            15.849
+                        ],
+                        [
+                            9.67514602565277,
+                            45.6990372946475,
+                            15.849
+                        ],
+                        [
+                            9.67507568465274,
+                            45.69898990140381,
+                            15.849
+                        ],
+                        [
+                            9.67512731532308,
+                            45.698957445148,
+                            15.849
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PIGNOLO, 40, 42",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO226_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO226_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 39 <br>\n<b><i>Mappale:</i></b> 1554 <br>\n<b><i>Indirizzo:</i></b>Via Pignolo, 42<br>\n<b><i>Numero alloggi:</i></b> 13 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>basso<br>\n<b><i>Stato locativo:</i></b>occupato<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 7185 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">alta</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>si<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "233"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67503452473967,
+                            45.6991053608855,
+                            15.529
+                        ],
+                        [
+                            9.67500336830575,
+                            45.6991316095901,
+                            15.529
+                        ],
+                        [
+                            9.6749834554193,
+                            45.6991483823329,
+                            15.529
+                        ],
+                        [
+                            9.67496115233694,
+                            45.6991333300441,
+                            15.529
+                        ],
+                        [
+                            9.67498334844502,
+                            45.6991117588784,
+                            15.529
+                        ],
+                        [
+                            9.67500876350615,
+                            45.6990870548934,
+                            15.529
+                        ],
+                        [
+                            9.67503452473967,
+                            45.6991053608855,
+                            15.529
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PIGNOLO, 40, 42",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "236"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67535648777792,
+                            45.6990135041169,
+                            11.79
+                        ],
+                        [
+                            9.67531478291589,
+                            45.69903825079,
+                            11.79
+                        ],
+                        [
+                            9.67525795212295,
+                            45.6990860062366,
+                            11.79
+                        ],
+                        [
+                            9.67524031678459,
+                            45.69910082356061,
+                            11.79
+                        ],
+                        [
+                            9.67520780196012,
+                            45.69907891754319,
+                            11.79
+                        ],
+                        [
+                            9.67521845468604,
+                            45.69906881824879,
+                            11.79
+                        ],
+                        [
+                            9.67523366906823,
+                            45.6990543921194,
+                            11.79
+                        ],
+                        [
+                            9.67528880705426,
+                            45.6990133917343,
+                            11.79
+                        ],
+                        [
+                            9.67520216307294,
+                            45.69892955724381,
+                            11.79
+                        ],
+                        [
+                            9.67518664269261,
+                            45.6989145384582,
+                            11.79
+                        ],
+                        [
+                            9.67517244682736,
+                            45.6989248059508,
+                            11.79
+                        ],
+                        [
+                            9.67512731532308,
+                            45.698957445148,
+                            11.79
+                        ],
+                        [
+                            9.67510691747602,
+                            45.69894038359141,
+                            11.79
+                        ],
+                        [
+                            9.67513665870642,
+                            45.6989190863658,
+                            11.79
+                        ],
+                        [
+                            9.67515990804161,
+                            45.69890243777309,
+                            11.79
+                        ],
+                        [
+                            9.67514627705688,
+                            45.6988904759691,
+                            11.79
+                        ],
+                        [
+                            9.67519274990368,
+                            45.6988681221538,
+                            11.79
+                        ],
+                        [
+                            9.67527506370389,
+                            45.6989412082685,
+                            11.79
+                        ],
+                        [
+                            9.67535648777792,
+                            45.6990135041169,
+                            11.79
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PIGNOLO, 40, 42",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "234"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.67524031678459,
+                            45.69910082356061,
+                            13.409
+                        ],
+                        [
+                            9.67519536538168,
+                            45.6991385954745,
+                            13.409
+                        ],
+                        [
+                            9.67516718594304,
+                            45.6991183107579,
+                            13.409
+                        ],
+                        [
+                            9.67503912750876,
+                            45.69902612052609,
+                            13.409
+                        ],
+                        [
+                            9.67501230407962,
+                            45.6990066484895,
+                            13.409
+                        ],
+                        [
+                            9.67503865547618,
+                            45.69899056498421,
+                            13.409
+                        ],
+                        [
+                            9.67506202060939,
+                            45.69897630104681,
+                            13.409
+                        ],
+                        [
+                            9.67507568465274,
+                            45.69898990140381,
+                            13.409
+                        ],
+                        [
+                            9.67514602565277,
+                            45.6990372946475,
+                            13.409
+                        ],
+                        [
+                            9.67520780196012,
+                            45.69907891754319,
+                            13.409
+                        ],
+                        [
+                            9.67524031678459,
+                            45.69910082356061,
+                            13.409
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PIGNOLO, 40, 42",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "235"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.63894344386106,
+                            45.6676259702758,
+                            11.679
+                        ],
+                        [
+                            9.63888756403214,
+                            45.6676285240982,
+                            11.679
+                        ],
+                        [
+                            9.63886273599031,
+                            45.6676296624353,
+                            11.679
+                        ],
+                        [
+                            9.63886179399069,
+                            45.6676190578605,
+                            11.679
+                        ],
+                        [
+                            9.63885521057435,
+                            45.6675449263094,
+                            11.679
+                        ],
+                        [
+                            9.63889936150265,
+                            45.6675428699932,
+                            11.679
+                        ],
+                        [
+                            9.63893114656968,
+                            45.6675415850077,
+                            11.679
+                        ],
+                        [
+                            9.63897596801146,
+                            45.667539785853,
+                            11.679
+                        ],
+                        [
+                            9.63898726003924,
+                            45.66753932651239,
+                            11.679
+                        ],
+                        [
+                            9.63898950440956,
+                            45.66756595805209,
+                            11.679
+                        ],
+                        [
+                            9.63899260427194,
+                            45.667602751867,
+                            11.679
+                        ],
+                        [
+                            9.63894742181775,
+                            45.66760443603469,
+                            11.679
+                        ],
+                        [
+                            9.63894920629035,
+                            45.6676258479059,
+                            11.679
+                        ],
+                        [
+                            9.63894344386106,
+                            45.6676259702758,
+                            11.679
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PERRUCCHETTI, 1,3",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO221.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO221_perrucchetti.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 108 <br>\n<b><i>Mappale:</i></b> 317 <br>\n<b><i>Indirizzo:</i></b>Via Perrucchetti, 1,3,5<br>\n<b><i>Numero alloggi:</i></b> 14 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 5198 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "5"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.63898726003924,
+                            45.66753932651239,
+                            10.169
+                        ],
+                        [
+                            9.63897596801146,
+                            45.667539785853,
+                            10.169
+                        ],
+                        [
+                            9.63893114656968,
+                            45.6675415850077,
+                            10.169
+                        ],
+                        [
+                            9.63889936150265,
+                            45.6675428699932,
+                            10.169
+                        ],
+                        [
+                            9.6388942845034,
+                            45.66748143238199,
+                            10.169
+                        ],
+                        [
+                            9.63894134078771,
+                            45.6674797196094,
+                            10.169
+                        ],
+                        [
+                            9.63894841705426,
+                            45.66747951406731,
+                            10.169
+                        ],
+                        [
+                            9.63897418107015,
+                            45.66747876161519,
+                            10.169
+                        ],
+                        [
+                            9.63901599244126,
+                            45.6674775462478,
+                            10.169
+                        ],
+                        [
+                            9.63902878745698,
+                            45.6674771685802,
+                            10.169
+                        ],
+                        [
+                            9.63903000289847,
+                            45.6674894191627,
+                            10.169
+                        ],
+                        [
+                            9.63903486578422,
+                            45.6675385198196,
+                            10.169
+                        ],
+                        [
+                            9.63898726003924,
+                            45.66753932651239,
+                            10.169
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PERRUCCHETTI, 1,3",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO221.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO221_perrucchetti.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 108 <br>\n<b><i>Mappale:</i></b> 317 <br>\n<b><i>Indirizzo:</i></b>Via Perrucchetti, 1,3,5<br>\n<b><i>Numero alloggi:</i></b> 14 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 5198 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "4"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.63902878745698,
+                            45.6674771685802,
+                            11.679
+                        ],
+                        [
+                            9.63901599244126,
+                            45.6674775462478,
+                            11.679
+                        ],
+                        [
+                            9.63897418107015,
+                            45.66747876161519,
+                            11.679
+                        ],
+                        [
+                            9.63894841705426,
+                            45.66747951406731,
+                            11.679
+                        ],
+                        [
+                            9.63894134078771,
+                            45.6674797196094,
+                            11.679
+                        ],
+                        [
+                            9.6389412407485,
+                            45.6674786417695,
+                            11.679
+                        ],
+                        [
+                            9.63893336441953,
+                            45.667394887127,
+                            11.679
+                        ],
+                        [
+                            9.63906592453928,
+                            45.66739019302501,
+                            11.679
+                        ],
+                        [
+                            9.63907167190638,
+                            45.6674552274006,
+                            11.679
+                        ],
+                        [
+                            9.63902661507912,
+                            45.6674554798072,
+                            11.679
+                        ],
+                        [
+                            9.63902878745698,
+                            45.6674771685802,
+                            11.679
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PERRUCCHETTI, 1,3",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO221.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO221_perrucchetti.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 108 <br>\n<b><i>Mappale:</i></b> 317 <br>\n<b><i>Indirizzo:</i></b>Via Perrucchetti, 1,3,5<br>\n<b><i>Numero alloggi:</i></b> 14 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 5198 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "2"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.63894992952506,
+                            45.66772197196521,
+                            11.75
+                        ],
+                        [
+                            9.63895838810993,
+                            45.6677218438327,
+                            11.75
+                        ],
+                        [
+                            9.63895977057263,
+                            45.6677429069107,
+                            11.75
+                        ],
+                        [
+                            9.63895980226884,
+                            45.6677434192902,
+                            11.75
+                        ],
+                        [
+                            9.6390059892345,
+                            45.6677419997791,
+                            11.75
+                        ],
+                        [
+                            9.63901059995496,
+                            45.6678187501935,
+                            11.75
+                        ],
+                        [
+                            9.63887984870989,
+                            45.667825702422,
+                            11.75
+                        ],
+                        [
+                            9.63887384178263,
+                            45.6677676486038,
+                            11.75
+                        ],
+                        [
+                            9.63886960687419,
+                            45.66772675135831,
+                            11.75
+                        ],
+                        [
+                            9.63889532923474,
+                            45.6677252212602,
+                            11.75
+                        ],
+                        [
+                            9.63894992952506,
+                            45.66772197196521,
+                            11.75
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PERRUCCHETTI, 1,3",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO221.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO221_perrucchetti.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 108 <br>\n<b><i>Mappale:</i></b> 317 <br>\n<b><i>Indirizzo:</i></b>Via Perrucchetti, 1,3,5<br>\n<b><i>Numero alloggi:</i></b> 14 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 5198 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "7"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.66422754144376,
+                            45.67035864164371,
+                            12.149
+                        ],
+                        [
+                            9.66422862137484,
+                            45.6703761149869,
+                            12.149
+                        ],
+                        [
+                            9.66420590302189,
+                            45.6703766070903,
+                            12.149
+                        ],
+                        [
+                            9.66418373915776,
+                            45.6703902372741,
+                            12.149
+                        ],
+                        [
+                            9.66416321255234,
+                            45.6703915269178,
+                            12.149
+                        ],
+                        [
+                            9.66409643252297,
+                            45.6703475419818,
+                            12.149
+                        ],
+                        [
+                            9.66409714575009,
+                            45.6703318765915,
+                            12.149
+                        ],
+                        [
+                            9.66424124233021,
+                            45.670225548466,
+                            12.149
+                        ],
+                        [
+                            9.6642647247657,
+                            45.6702256638967,
+                            12.149
+                        ],
+                        [
+                            9.66433174758827,
+                            45.6702696647296,
+                            12.149
+                        ],
+                        [
+                            9.66433179418539,
+                            45.6702833371922,
+                            12.149
+                        ],
+                        [
+                            9.66431040884238,
+                            45.6702986730154,
+                            12.149
+                        ],
+                        [
+                            9.66431135912902,
+                            45.670316048227,
+                            12.149
+                        ],
+                        [
+                            9.66428724608514,
+                            45.6703158194634,
+                            12.149
+                        ],
+                        [
+                            9.66422754144376,
+                            45.67035864164371,
+                            12.149
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA EINSTEIN, 51",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"C:/Users/Nicola/Downloads/files/BGO111_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"C:/Users/Nicola/Downloads/files/BGO111_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 102 <br>\n<b><i>Mappale:</i> </b>  1014 <br>\n<b><i>Indirizzo:</i></b> Via Einstein, 51 <br>\n<b><i>Numero alloggi:</i></b> 6 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato <br>\n<b><i>Stato locativo:</i></b>occupato<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> pubblica <br>\n<b><i>Dimensione:</i></b> 2.179m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b> basso <br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "364"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.70708157395145,
+                            45.6906438306302,
+                            17.021
+                        ],
+                        [
+                            9.70713763687083,
+                            45.6907496050679,
+                            17.021
+                        ],
+                        [
+                            9.70715258430029,
+                            45.69077780716251,
+                            17.021
+                        ],
+                        [
+                            9.70707591975416,
+                            45.6907978137868,
+                            17.021
+                        ],
+                        [
+                            9.70713253638844,
+                            45.6909028541451,
+                            17.021
+                        ],
+                        [
+                            9.70716087331364,
+                            45.69095542961931,
+                            17.021
+                        ],
+                        [
+                            9.70703658211402,
+                            45.6909883326738,
+                            17.021
+                        ],
+                        [
+                            9.70695517503147,
+                            45.6908371156876,
+                            17.021
+                        ],
+                        [
+                            9.70695162725664,
+                            45.69083052778051,
+                            17.021
+                        ],
+                        [
+                            9.70702891494662,
+                            45.6908100762416,
+                            17.021
+                        ],
+                        [
+                            9.70701811055244,
+                            45.6907900355534,
+                            17.021
+                        ],
+                        [
+                            9.70694008317381,
+                            45.6906452926787,
+                            17.021
+                        ],
+                        [
+                            9.70701392623622,
+                            45.69062539702311,
+                            17.021
+                        ],
+                        [
+                            9.70706457097633,
+                            45.6906117496017,
+                            17.021
+                        ],
+                        [
+                            9.70708157395145,
+                            45.6906438306302,
+                            17.021
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PIZZO REDORTA, 26, 28",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"C:/Users/Nicola/Downloads/files/BGO230.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO230_pizzoredorta2628street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 57 <br>\n<b><i>Mappale:</i> </b> 7361 <br>\n<b><i>Indirizzo:</i></b> Via \tPizzo Redorta, 26, 28<br>\n<b><i>Numero alloggi:</i></b>16<br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato <br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista <br>\n<b><i>Dimensione:</i></b> 6.749m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b> basso <br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "131"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.71145136998885,
+                            45.6954531062273,
+                            13.587
+                        ],
+                        [
+                            9.71144136294963,
+                            45.69545606706001,
+                            13.587
+                        ],
+                        [
+                            9.71148807982825,
+                            45.6955322096532,
+                            13.587
+                        ],
+                        [
+                            9.71144849263184,
+                            45.6955440260661,
+                            13.587
+                        ],
+                        [
+                            9.71137600338575,
+                            45.6955656619896,
+                            13.587
+                        ],
+                        [
+                            9.71135690391104,
+                            45.6955342462423,
+                            13.587
+                        ],
+                        [
+                            9.71126986722914,
+                            45.6953910805001,
+                            13.587
+                        ],
+                        [
+                            9.7113818280405,
+                            45.6953576196489,
+                            13.587
+                        ],
+                        [
+                            9.71142566979418,
+                            45.6954308999109,
+                            13.587
+                        ],
+                        [
+                            9.7114356706815,
+                            45.6954275161147,
+                            13.587
+                        ],
+                        [
+                            9.71145136998885,
+                            45.6954531062273,
+                            13.587
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA MONTE GRIGNA, 9",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO199_montegrigna9orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO199_montegrigna9street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 58<br>\n<b><i>Mappale:</i> 6232</b><br>\n<b><i>Indirizzo:</i></b> Via Monte Grigna, 9<br>\n<b><i>Numero alloggi:</i> 16</b><br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato <br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto <br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista <br>\n<b><i>Dimensione:</i></b> 2.745 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> non presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b> basso <br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "206"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.66302058904602,
+                            45.7145639874664,
+                            10.823
+                        ],
+                        [
+                            9.66305718815023,
+                            45.7145850106459,
+                            10.823
+                        ],
+                        [
+                            9.66291569077065,
+                            45.7147055988038,
+                            10.823
+                        ],
+                        [
+                            9.66288660008971,
+                            45.7147303899056,
+                            10.823
+                        ],
+                        [
+                            9.66285354466834,
+                            45.7147112127896,
+                            10.823
+                        ],
+                        [
+                            9.66279376197288,
+                            45.7146765299178,
+                            10.823
+                        ],
+                        [
+                            9.66286800633108,
+                            45.7146145719564,
+                            10.823
+                        ],
+                        [
+                            9.66296611641406,
+                            45.7145326974051,
+                            10.823
+                        ],
+                        [
+                            9.66302058904602,
+                            45.7145639874664,
+                            10.823
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA UCCELLI PIERANTONIO, 34",
+                "styleUrl": "#trb22837000010",
+                "styleHash": "1bc3e2d8",
+                "styleMapHash": {
+                    "normal": "#trb2291227000001",
+                    "highlight": "#trb227211157000001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO301_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO301_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 15 <br>\n<b><i>Mappale:</i></b> 1537 <br>\n<b><i>Indirizzo:</i></b>Via Uccelli Pierantonio, 34<br>\n<b><i>Numero alloggi:</i></b> 12 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 2096 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#0066ff",
+                "stroke-opacity": 0,
+                "stroke-width": 0.3,
+                "fill": "#0a80ff",
+                "fill-opacity": 1
+            },
+            "id": "272"
+        }
+    ]
+}
