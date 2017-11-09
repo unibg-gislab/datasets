@@ -1,4 +1,4 @@
-\{
+{
     "type": "FeatureCollection", 
     "features": [
         {
@@ -44,17 +44,17 @@
                 "name": "FABBRICA LOMBARDA CEMENTI PORTLAND", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG1%20portland.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG1%20portland%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Rovelli 7/A, Via Borgo Palazzo, Via David<br>\n<b><i>Volumetria attuale:</i> 120.420m\u00b3</b><br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b>\n<br><b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 25.044m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 1,4<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>"
             }
@@ -97,17 +97,17 @@
                 "name": "LOVATO Spa", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG2%20lovato.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG2%20lovato%20%2812.2011%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Bianzana, 20<br>\n<b><i>Volumetria attuale:</i> 7.153m\u00b3</b><br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> assente<br>\n<b><i>Contaminazione:</i></b> presente<br>\n<b><i>Superficie fondiaria:</i></b> 1.361m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 4,6<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine (Parco di Redona)<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>"
             }
@@ -155,17 +155,17 @@
                 "name": "CORTINOVIS Srl", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG3%20cortinovis.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG3%20cortinovis%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via per Zanica, 87<br>\n<b><i>Volumetria attuale:</i> 109.256m\u00b3</b><br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> presenti vincoli architettonici e paesistico ambientali: area di rispetto corsi d'acqua tutelati (Rio Morla); ambiti vincolati ex legge 431/85<br>\n<b><i>Piano attuativo:</i></b> assente<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 33.911m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 2,9<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>"
             }
@@ -218,17 +218,17 @@
                 "name": "MOLINI", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG4%20molini.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG4%20molini%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Bartolomeo Bono, 13<br>\n<b><i>Volumetria attuale:</i> 63.023m\u00b3</b><br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> presenti vincoli paesistico ambientali (area di rispetto corsi d'acqua tutelati -Rio Morla<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 17.707m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 1,5<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>"
             }
@@ -306,17 +306,17 @@
                 "name": "GHILARDI Ing S. e C.S.A", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG1%20portland.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG1%20portland%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD><br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Maglio del Lotto<br>\n<b><i>Volumetria attuale:</i> 14.736m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> non presente<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 2.521m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 5,2<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> non presenti<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTT</div>"
             }
@@ -359,17 +359,17 @@
                 "name": "A. NARDUCCI", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG7%20narducci.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG7%20narducci.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via G.B. Rota, 6<br>\n<b><i>Volumetria attuale:</i> 10.675m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> non presente<br>\n<b><i>Contaminazione:</i></b> presente<br>\n<b><i>Superficie fondiaria:</i></b> 1.540m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 5,5<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> non esistenti<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTT</div>"
             }
@@ -412,17 +412,17 @@
                 "name": "RETE GAMMA", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG8%20rete%20gamma.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG8%20rete%20gamma%20%2810.2010%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Amilcare Ponchielli, 81 - Via Cenisio - Via Stelvio<br>\n<b><i>Volumetria attuale:</i> 7.840m\u00b3</b><br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> non presente<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 1.733m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> mista<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 4,2<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture extraurbane<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>"
             }
@@ -480,17 +480,17 @@
                 "name": "REGGIANI", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG10%20reggiani.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG10%20reggiani%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Giulio Cesare,33 - Via Tito Legrenzi <br>\n<b><i>Volumetria attuale:</i> 480.576m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> presenti vincoli paesistico ambientali (Area di rispetto corsi d'acqua tutelati (Rio Morla); D. Lgs 42/2004 artt. 136, 142) <br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> presente<br>\n<b><i>Superficie fondiaria:</i></b> 93.918m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 2,6<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine (Parco Goisis) e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>"
             }
@@ -533,17 +533,17 @@
                 "name": "FONDERIA DELLA CASA", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG12%20fonderia%20della%20casa.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG12%20fonderia%20della%20casa%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via S. Giovanni Bosco <br>\n<b><i>Volumetria attuale:</i> 19.306m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> vincoli paesistico ambientali (area di rispetto corsi d'acqua tutelati, Rio Morla)<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 6.304m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> mista<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 2,7<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine (Parco Brigata Alpini) e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>"
             }
@@ -621,17 +621,17 @@
                 "name": "COLORIFICIO MIGLIAVACCA", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG13%20colorificio%20migliavacca.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG13%20colorificio%20migliavacca%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Nazario Sauro, 20 - Via Baioni<br>\n<b><i>Volumetria attuale:</i> 16.155m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> vincoli paesistico ambientali (area di rispetto corsi d'acqua tutelati (Rio Morla); essenze arboree da salvaguardare )<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 3.979m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 0,9<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>"
             }
@@ -699,17 +699,17 @@
                 "name": "FERVET", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG14%20fervet.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG14%20fervet%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Pietro Rovelli, Via Borgo Palazzo<br>\n<b><i>Volumetria attuale:</i> 41.685m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> vincoli architettonici<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 29.737m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 1,8<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>"
             }
@@ -2197,17 +2197,17 @@
                 "name": "MAGAZZINI GENERALI", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG16%20magazzini%20generali.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG16%20ex%20magazzini%20generali%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Alfredo Piatti - Via Pietro Rovelli<br>\n<b><i>Volumetria attuale:</i> 68.136m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 26.815m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 1,5<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>"
             }
@@ -2260,17 +2260,17 @@
                 "name": "MAGAZZINI GENERALI", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG16%20magazzini%20generali.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG16%20ex%20magazzini%20generali%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Alfredo Piatti - Via Pietro Rovelli<br>\n<b><i>Volumetria attuale:</i> 68.136m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 26.815m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 1,5<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>"
             }
@@ -2493,17 +2493,17 @@
                 "name": "ISMES", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG17%20ex%20ismes.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG17%20ex%20ismes%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Ponte Pietra - Viale Giulio Cesare<br>\n<b><i>Volumetria attuale:</i> 18.893m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 6.038m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> mista<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 3,9<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine (Parco Goisis) e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>"
             }
@@ -2546,17 +2546,17 @@
                 "name": "CASERMA FLORES", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG20%20caserma%20flores.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG20%20caserma%20flores%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Gasparini<br>\n<b><i>Volumetria attuale:</i> 14.118m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 2.861m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> pubblica e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 5,9<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine (Parco via Gasparini)<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>"
             }
@@ -2599,17 +2599,17 @@
                 "name": "CASERMA SCOTTI", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG19%20caserma%20scotti.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG19%20caserma%20scotti%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Suardi - Via degli Albani<br>\n<b><i>Volumetria attuale:</i> 14.357m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> vincolo culturale n.261 dal 2009 - Dichiarato di interesse ai sensi del D.Lgs 42/2004 e ss.mm.ii (nota MIBAC del 22/10/09)<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 3.559m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> pubblica e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 3,4<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine (Parco Suardi)<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>"
             }
@@ -2652,17 +2652,17 @@
                 "name": "CASERMA CORRIDONI", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG21%20caserma%20corridoni.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG21%20caserma%20corridoni%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Brigata Legnano - Via Galimberti, 3-19<br>\n<b><i>Volumetria attuale:</i></b> 8.082m\u00b3<br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 3.789m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> pubblica e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 1,9<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine (Parco Turani) e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>\n<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>"
             }
@@ -2705,17 +2705,17 @@
                 "name": "LOCALI INTERRATI PIAZZA DANTE", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG22%20locali%20interrati.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG22%20locali%20interrati.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Piazza Dante<br>\n<b><i>Volumetria attuale:</i></b> 3.000m\u00b3<br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> Protocollo d'intesa per la valorizzazione<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 3.216m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> pubblica e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 0,9<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine (Parco Frizzoni e Sentierone) e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>"
             }
@@ -2758,17 +2758,17 @@
                 "name": "ILFA INDUSTRIA LAVORAZIONE FERRO E ACCIAIO", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG6%20ilfa.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG6%20ilfa%20%2812.2011%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"><b><i>Indirizzo:</i></b> Via Carlo Serassi, 26<br>\n<b><i>Volumetria attuale:</i> 25.122m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> non presente<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 6.028m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> mista<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 1,6<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine (Parco della Martinella)<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>"
             }
@@ -2816,17 +2816,17 @@
                 "name": "MORETTI EMMETRE", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG9%20moretti.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG9%20moretti%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via S. Giovanni Bosco, 80 <br>\n<b><i>Volumetria attuale:</i> 51.490m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> presenti vincoli paesistico ambientali (Area di rispetto corsi d'acqua tutelati (Rio Morla); D. Lgs 42/2004 artt. 136, 142) <br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> presente<br>\n<b><i>Superficie fondiaria:</i></b> 12.915m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 2,5<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>"
             }
@@ -2889,17 +2889,17 @@
                 "name": "OTE OFFICINE TRASFORMATORI ELETTRICI", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG11%20ote.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG11%20ote%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Bianzana, 5 - Via Serassi<br>\n<b><i>Volumetria attuale:</i> 194.349m\u00b3</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti <br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 30.848m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 1,5<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>"
             }
@@ -3022,17 +3022,17 @@
                 "name": "OSPEDALI RIUNITI", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG23%20ospedali%20riuniti.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG23%20ospedali%20riuniti%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Largo Barozzi - Via XXIV Maggio<br>\n<b><i>Volumetria attuale:</i></b> 558.614m\u00b3<br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> Palazzo dell\u2019Amministrazione e Chiesa-casa dei frati (D.Lgs. 42/2004 art. n. 42 e ss.mm.ii. con decreto dell\u201911 aprile 2008)<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 138.919m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> pubblica e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 3,1<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>"
             }
@@ -4125,17 +4125,17 @@
                 "name": "CASERMA MONTELUNGO-COLLEONI", 
                 "stroke-opacity": 1, 
                 "fill-opacity": 1, 
-                "color": "#ffff00", 
+                "color": "#353535", 
                 "level": 1, 
                 "styleUrl": "#trb2333300", 
-                "stroke": "#ffff00", 
+                "stroke": "#3b3b3b", 
                 "height": 0, 
                 "styleHash": "38a663cd", 
                 "styleMapHash": {
                     "highlight": "#trb2613000", 
                     "normal": "#trb22230000"
                 }, 
-                "fill": "#ffff00", 
+                "fill": "#353535", 
                 "base_height": 0, 
                 "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG15%20caserma%20montelungo.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG15%20ex%20caserma%20montelungo%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via San Giovanni - Largo Galliani, 15 - Viale Muraine,7<br>\n<b><i>Volumetria attuale:</i> 119.669m\u00b3</b><br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b>\n<br>\n<b><i>Vincoli:</i></b> Vincolo culturale n.270 dal 2011 (IBCAA - Inventario dei Beni Culturali, Ambientali e Archeologici del Comune di Bergamo)\ne area di rispetto corsi d'acqua tutelati (Rio Morla); essenze arboree da salvaguardare <br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 19.942m\u00b2<br>\n<b><i>Propriet\u00e0:</i></b> pubblica e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Indice di edificabilit\u00e0:</i></b> 5<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine e programmate<br>\n<b><i>Accessibilit\u00e0:</i></b> prossimit\u00e0 a infrastrutture urbane ed extraurbane<br>"
             }
