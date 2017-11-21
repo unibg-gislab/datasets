@@ -5,7 +5,7 @@
       "properties": {
         "name": "Palaghiaccio",
         "level": 1,
-        "color": "white",
+        "color": "#00FF00",
         "styleUrl": "#msn_ylw-pushpin02",
         "height": 6,
         "styleHash": "-5fd01e75",
@@ -54,7 +54,7 @@
       "properties": {
         "name": "Palaghiaccio",
         "level": 1,
-        "color": "white",
+        "color": "#00FF00",
         "styleUrl": "#msn_ylw-pushpin02",
         "height": 6,
         "styleHash": "-5fd01e75",
