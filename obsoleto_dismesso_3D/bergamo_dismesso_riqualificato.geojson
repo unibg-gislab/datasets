@@ -1,103 +1,103 @@
 {
- -  "features": [
- -    {
- -      "type": "Feature",
- -      "properties": {
- -        "name": "Palaghiaccio",
- -        "level": 1,
- -        "color": "#00FF00",
- -        "styleUrl": "#msn_ylw-pushpin02",
- -        "height": 6,
- -        "styleHash": "-5fd01e75",
- -        "styleMapHash": {
- -          "highlight": "#sh_ylw-pushpin5",
- -          "normal": "#sn_ylw-pushpin01"
- -        },
- -        "base_height": 0
- -      },
- -      "geometry": {
- -        "coordinates": [
- -          [
- -            [
- -              9.658893,
- -              45.677817,
- -              6
- -            ],
- -            [
- -              9.658944,
- -              45.677794,
- -              6
- -            ],
- -            [
- -              9.659333,
- -              45.678202,
- -              6
- -            ],
- -            [
- -              9.659279,
- -              45.678226,
- -              6
- -            ],
- -            [
- -              9.658893,
- -              45.677817,
- -              6
- -            ]
- -          ]
- -        ],
- -        "type": "Polygon"
- -      },
- -      "id": "d9ae4db9900d8c8b4f9dedb2c92f573a"
- -    },
- -    {
- -      "type": "Feature",
- -      "properties": {
- -        "name": "Palaghiaccio",
- -        "level": 1,
- -        "color": "#00FF00",
- -        "styleUrl": "#msn_ylw-pushpin02",
- -        "height": 6,
- -        "styleHash": "-5fd01e75",
- -        "styleMapHash": {
- -          "highlight": "#sh_ylw-pushpin5",
- -          "normal": "#sn_ylw-pushpin01"
- -        },
- -        "base_height": 0
- -      },
- -      "geometry": {
- -        "coordinates": [
- -          [
- -            [
- -              9.658584,
- -              45.677742,
- -              6
- -            ],
- -            [
- -              9.659408,
- -              45.678617,
- -              6
- -            ],
- -            [
- -              9.658935,
- -              45.678831,
- -              6
- -            ],
- -            [
- -              9.65811,
- -              45.677962,
- -              6
- -            ],
- -            [
- -              9.658584,
- -              45.677742,
- -              6
- -            ]
- -          ]
- -        ],
- -        "type": "Polygon"
- -      },
- -      "id": "ebaa3669b8e04a97b17c331e449f6c5d"
- -    }
- -  ],
- -  "type": "FeatureCollection"
- -}
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palaghiaccio",
+        "level": 1,
+        "color": "#00FF00",
+        "styleUrl": "#msn_ylw-pushpin02",
+        "height": 6,
+        "styleHash": "-5fd01e75",
+        "styleMapHash": {
+          "highlight": "#sh_ylw-pushpin5",
+          "normal": "#sn_ylw-pushpin01"
+        },
+        "base_height": 0
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.658893,
+              45.677817,
+              6
+            ],
+            [
+              9.658944,
+              45.677794,
+              6
+            ],
+            [
+              9.659333,
+              45.678202,
+              6
+            ],
+            [
+              9.659279,
+              45.678226,
+              6
+            ],
+            [
+              9.658893,
+              45.677817,
+              6
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "d9ae4db9900d8c8b4f9dedb2c92f573a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palaghiaccio",
+        "level": 1,
+        "color": "#00FF00",
+        "styleUrl": "#msn_ylw-pushpin02",
+        "height": 6,
+        "styleHash": "-5fd01e75",
+        "styleMapHash": {
+          "highlight": "#sh_ylw-pushpin5",
+          "normal": "#sn_ylw-pushpin01"
+        },
+        "base_height": 0
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.658584,
+              45.677742,
+              6
+            ],
+            [
+              9.659408,
+              45.678617,
+              6
+            ],
+            [
+              9.658935,
+              45.678831,
+              6
+            ],
+            [
+              9.65811,
+              45.677962,
+              6
+            ],
+            [
+              9.658584,
+              45.677742,
+              6
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "ebaa3669b8e04a97b17c331e449f6c5d"
+    }
+  ],
+  "type": "FeatureCollection"
+}
