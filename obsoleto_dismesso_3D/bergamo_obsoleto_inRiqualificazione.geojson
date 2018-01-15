@@ -1,0 +1,3458 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.66897049676163,
+                            45.7039035694814,
+                            13.87
+                        ],
+                        [
+                            9.66893141817824,
+                            45.7039325735013,
+                            13.87
+                        ],
+                        [
+                            9.66888767949306,
+                            45.7039650256911,
+                            13.87
+                        ],
+                        [
+                            9.66880139433428,
+                            45.7039048671451,
+                            13.87
+                        ],
+                        [
+                            9.66878949458634,
+                            45.7038958549312,
+                            13.87
+                        ],
+                        [
+                            9.66880471697414,
+                            45.7038861892626,
+                            13.87
+                        ],
+                        [
+                            9.66884328423236,
+                            45.703861706203,
+                            13.87
+                        ],
+                        [
+                            9.66884693067832,
+                            45.7038593896034,
+                            13.87
+                        ],
+                        [
+                            9.6689101427979,
+                            45.7038225931693,
+                            13.87
+                        ],
+                        [
+                            9.66897657034813,
+                            45.7038990604355,
+                            13.87
+                        ],
+                        [
+                            9.66897049676163,
+                            45.7039035694814,
+                            13.87
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PORTA DIPINTA, 32",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO232_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO232_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 38 <br>\n<b><i>Mappale:</i></b> 3049 <br>\n<b><i>Indirizzo:</i></b>Via Porta Dipinta, 32<br>\n<b><i>Numero alloggi:</i></b> 4 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>basso<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>presenti vincoli paesistico ambientali: Vincolo L. 431/85 - Parchi o riserve nazionali e regionali istituiti (art. 1.f.)<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 1618 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">alta</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>si<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "253"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64052886564764,
+                            45.6681506444421,
+                            15.432
+                        ],
+                        [
+                            9.6406007329664,
+                            45.6681271088636,
+                            15.432
+                        ],
+                        [
+                            9.64070625773861,
+                            45.6682774339745,
+                            15.432
+                        ],
+                        [
+                            9.64072109628271,
+                            45.6682985708818,
+                            15.432
+                        ],
+                        [
+                            9.64072860997108,
+                            45.6683092758724,
+                            15.432
+                        ],
+                        [
+                            9.64078174103416,
+                            45.6683849636953,
+                            15.432
+                        ],
+                        [
+                            9.64070370048424,
+                            45.6684075347688,
+                            15.432
+                        ],
+                        [
+                            9.64070110707706,
+                            45.66840350602269,
+                            15.432
+                        ],
+                        [
+                            9.64069873387483,
+                            45.6683998221356,
+                            15.432
+                        ],
+                        [
+                            9.64062888643531,
+                            45.66842261687781,
+                            15.432
+                        ],
+                        [
+                            9.64062014110487,
+                            45.66841000207279,
+                            15.432
+                        ],
+                        [
+                            9.64051133386628,
+                            45.6682530837322,
+                            15.432
+                        ],
+                        [
+                            9.64046087404539,
+                            45.6681803094376,
+                            15.432
+                        ],
+                        [
+                            9.64045880666076,
+                            45.66817732921211,
+                            15.432
+                        ],
+                        [
+                            9.64047565827373,
+                            45.6681709108837,
+                            15.432
+                        ],
+                        [
+                            9.64052886564764,
+                            45.6681506444421,
+                            15.432
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA ZIGNONI, 5",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO310_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO310_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 109 <br>\n<b><i>Mappale:</i></b> 422 <br>\n<b><i>Indirizzo:</i></b>Via Zignoni, 5<br>\n<b><i>Numero alloggi:</i></b> 16 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">bassa</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>basso<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 11964 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">alta</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "12"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64045880666076,
+                            45.66817732921211,
+                            15.421
+                        ],
+                        [
+                            9.6403899921275,
+                            45.6681984083918,
+                            15.421
+                        ],
+                        [
+                            9.64036970694914,
+                            45.6681697718952,
+                            15.421
+                        ],
+                        [
+                            9.64030765776294,
+                            45.668082179244,
+                            15.421
+                        ],
+                        [
+                            9.64024741656194,
+                            45.6679971358927,
+                            15.421
+                        ],
+                        [
+                            9.64021604652293,
+                            45.66795285364119,
+                            15.421
+                        ],
+                        [
+                            9.64028114895816,
+                            45.6679305263697,
+                            15.421
+                        ],
+                        [
+                            9.64027291143294,
+                            45.6679185206755,
+                            15.421
+                        ],
+                        [
+                            9.64033438682647,
+                            45.6678967521077,
+                            15.421
+                        ],
+                        [
+                            9.64035219791298,
+                            45.6678904432276,
+                            15.421
+                        ],
+                        [
+                            9.64035671561861,
+                            45.66789707285331,
+                            15.421
+                        ],
+                        [
+                            9.64037483833478,
+                            45.66792367456641,
+                            15.421
+                        ],
+                        [
+                            9.64039016944652,
+                            45.6679461772146,
+                            15.421
+                        ],
+                        [
+                            9.64049856346873,
+                            45.6681052800708,
+                            15.421
+                        ],
+                        [
+                            9.64051171637527,
+                            45.6681249701089,
+                            15.421
+                        ],
+                        [
+                            9.64052251041084,
+                            45.6681411305489,
+                            15.421
+                        ],
+                        [
+                            9.64052886564764,
+                            45.6681506444421,
+                            15.421
+                        ],
+                        [
+                            9.64047565827373,
+                            45.6681709108837,
+                            15.421
+                        ],
+                        [
+                            9.64045880666076,
+                            45.66817732921211,
+                            15.421
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA ZIGNONI, 5",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO310_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO310_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 109 <br>\n<b><i>Mappale:</i></b> 422 <br>\n<b><i>Indirizzo:</i></b>Via Zignoni, 5<br>\n<b><i>Numero alloggi:</i></b> 16 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">bassa</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>basso<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 11964 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">alta</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "10"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64340819727037,
+                            45.6801825827781,
+                            14.642
+                        ],
+                        [
+                            9.64330387993387,
+                            45.6800662514711,
+                            14.642
+                        ],
+                        [
+                            9.64331501652124,
+                            45.68006138779641,
+                            14.642
+                        ],
+                        [
+                            9.6433397819386,
+                            45.6800505679914,
+                            14.642
+                        ],
+                        [
+                            9.64332588419892,
+                            45.68003678486431,
+                            14.642
+                        ],
+                        [
+                            9.64340253103807,
+                            45.6800022306328,
+                            14.642
+                        ],
+                        [
+                            9.64353262254366,
+                            45.6801490373472,
+                            14.642
+                        ],
+                        [
+                            9.64352575885193,
+                            45.6801519904296,
+                            14.642
+                        ],
+                        [
+                            9.64345697994485,
+                            45.680181578629,
+                            14.642
+                        ],
+                        [
+                            9.64344374061051,
+                            45.6801680802173,
+                            14.642
+                        ],
+                        [
+                            9.64340819727037,
+                            45.6801825827781,
+                            14.642
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SANT'AMBROGIO, 46",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO274_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO274_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 82 <br>\n<b><i>Mappale:</i></b> 7428 <br>\n<b><i>Indirizzo:</i></b>Via Sant'ambrogio, 46<br>\n<b><i>Numero alloggi:</i></b> 8 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 2.687 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "44"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64711917148954,
+                            45.6788388431027,
+                            10.331
+                        ],
+                        [
+                            9.64709183388198,
+                            45.6788498887264,
+                            10.331
+                        ],
+                        [
+                            9.64707347655628,
+                            45.6788289401984,
+                            10.331
+                        ],
+                        [
+                            9.64707780842403,
+                            45.6788271334965,
+                            10.331
+                        ],
+                        [
+                            9.64709702023668,
+                            45.6788191181043,
+                            10.331
+                        ],
+                        [
+                            9.64710132168774,
+                            45.6788173242079,
+                            10.331
+                        ],
+                        [
+                            9.64710224122317,
+                            45.67881843145219,
+                            10.331
+                        ],
+                        [
+                            9.64711917148954,
+                            45.6788388431027,
+                            10.331
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SANT'AMBROGIO, 16,18",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "35"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64699700961591,
+                            45.6786998529944,
+                            10.331
+                        ],
+                        [
+                            9.64697015863451,
+                            45.6787119764246,
+                            10.331
+                        ],
+                        [
+                            9.64694987640191,
+                            45.6786890407629,
+                            10.331
+                        ],
+                        [
+                            9.64697655853321,
+                            45.67867681941051,
+                            10.331
+                        ],
+                        [
+                            9.64699700961591,
+                            45.6786998529944,
+                            10.331
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SANT'AMBROGIO, 16,18",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "32"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64697655853321,
+                            45.67867681941051,
+                            10.381
+                        ],
+                        [
+                            9.64696770602798,
+                            45.6786507710672,
+                            10.381
+                        ],
+                        [
+                            9.64696447633397,
+                            45.6786412628952,
+                            10.381
+                        ],
+                        [
+                            9.64706707447815,
+                            45.6785960370888,
+                            10.381
+                        ],
+                        [
+                            9.64711490312671,
+                            45.67865242535531,
+                            10.381
+                        ],
+                        [
+                            9.64711965198959,
+                            45.6786580238835,
+                            10.381
+                        ],
+                        [
+                            9.6470063252314,
+                            45.678708242758,
+                            10.381
+                        ],
+                        [
+                            9.64699700961591,
+                            45.6786998529944,
+                            10.381
+                        ],
+                        [
+                            9.64697655853321,
+                            45.67867681941051,
+                            10.381
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SANT'AMBROGIO, 16,18",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO273_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO273_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 82 <br>\n<b><i>Mappale:</i></b> 7321 <br>\n<b><i>Indirizzo:</i></b>Via Sant'ambrogio, 16,18<br>\n<b><i>Numero alloggi:</i></b> 18 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 6470 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "31"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64709183388198,
+                            45.6788498887264,
+                            12.081
+                        ],
+                        [
+                            9.64714464100363,
+                            45.6789095432611,
+                            12.081
+                        ],
+                        [
+                            9.6470770876935,
+                            45.6789395030075,
+                            12.081
+                        ],
+                        [
+                            9.64703261791312,
+                            45.6789592235308,
+                            12.081
+                        ],
+                        [
+                            9.64692816181599,
+                            45.67884130314621,
+                            12.081
+                        ],
+                        [
+                            9.64690337534812,
+                            45.6788133235061,
+                            12.081
+                        ],
+                        [
+                            9.64678400031857,
+                            45.6786785589915,
+                            12.081
+                        ],
+                        [
+                            9.64685123977663,
+                            45.6786494636927,
+                            12.081
+                        ],
+                        [
+                            9.64689719961093,
+                            45.67862957437781,
+                            12.081
+                        ],
+                        [
+                            9.64691545729194,
+                            45.67865018509171,
+                            12.081
+                        ],
+                        [
+                            9.64694987640191,
+                            45.6786890407629,
+                            12.081
+                        ],
+                        [
+                            9.64697015863451,
+                            45.6787119764246,
+                            12.081
+                        ],
+                        [
+                            9.64700725436909,
+                            45.6787539707858,
+                            12.081
+                        ],
+                        [
+                            9.64706814746573,
+                            45.6788229109624,
+                            12.081
+                        ],
+                        [
+                            9.64707347655628,
+                            45.6788289401984,
+                            12.081
+                        ],
+                        [
+                            9.64709183388198,
+                            45.6788498887264,
+                            12.081
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SANT'AMBROGIO, 16,18",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO273_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO273_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 82 <br>\n<b><i>Mappale:</i></b> 7321 <br>\n<b><i>Indirizzo:</i></b>Via Sant'ambrogio, 16,18<br>\n<b><i>Numero alloggi:</i></b> 18 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 6470 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "38"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64710132168774,
+                            45.6788173242079,
+                            10.361
+                        ],
+                        [
+                            9.64708782702246,
+                            45.67878087586699,
+                            10.361
+                        ],
+                        [
+                            9.64719039333572,
+                            45.67873511944571,
+                            10.361
+                        ],
+                        [
+                            9.64724530798141,
+                            45.6787970929242,
+                            10.361
+                        ],
+                        [
+                            9.64723742911039,
+                            45.6788006694729,
+                            10.361
+                        ],
+                        [
+                            9.64712904421272,
+                            45.67884986663379,
+                            10.361
+                        ],
+                        [
+                            9.64711917148954,
+                            45.6788388431027,
+                            10.361
+                        ],
+                        [
+                            9.64710224122317,
+                            45.67881843145219,
+                            10.361
+                        ],
+                        [
+                            9.64710132168774,
+                            45.6788173242079,
+                            10.361
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA SANT'AMBROGIO, 16,18",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO273_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO273_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 82 <br>\n<b><i>Mappale:</i></b> 7321 <br>\n<b><i>Indirizzo:</i></b>Via Sant'ambrogio, 16,18<br>\n<b><i>Numero alloggi:</i></b> 18 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 6470 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "36"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.63915535064162,
+                            45.6680838222291,
+                            10.142
+                        ],
+                        [
+                            9.63918346080309,
+                            45.6680834037818,
+                            10.142
+                        ],
+                        [
+                            9.63918691833881,
+                            45.66812427130729,
+                            10.142
+                        ],
+                        [
+                            9.63918789453849,
+                            45.6681358079568,
+                            10.142
+                        ],
+                        [
+                            9.63918954112561,
+                            45.6681552873874,
+                            10.142
+                        ],
+                        [
+                            9.63919352048523,
+                            45.6682023372661,
+                            10.142
+                        ],
+                        [
+                            9.63913084282964,
+                            45.66820517815639,
+                            10.142
+                        ],
+                        [
+                            9.63906907047744,
+                            45.6682079760327,
+                            10.142
+                        ],
+                        [
+                            9.63906704962434,
+                            45.6681782058314,
+                            10.142
+                        ],
+                        [
+                            9.63906091026673,
+                            45.668087861754,
+                            10.142
+                        ],
+                        [
+                            9.63909111587596,
+                            45.6680865674433,
+                            10.142
+                        ],
+                        [
+                            9.63912052584057,
+                            45.6680853132884,
+                            10.142
+                        ],
+                        [
+                            9.63915535064162,
+                            45.6680838222291,
+                            10.142
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PERRUCCHETTI, 7, 9",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO222.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO222_perrucchetti.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 108 <br>\n<b><i>Mappale:</i></b> 318 <br>\n<b><i>Indirizzo:</i></b>Via Perrucchetti, 7, 9<br>\n<b><i>Numero alloggi:</i></b> 10 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 3708 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "11"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.63906091026673,
+                            45.668087861754,
+                            11.652
+                        ],
+                        [
+                            9.63903062222882,
+                            45.6680886609952,
+                            11.652
+                        ],
+                        [
+                            9.63902932964437,
+                            45.6680745930021,
+                            11.652
+                        ],
+                        [
+                            9.63902080232638,
+                            45.6679817962095,
+                            11.652
+                        ],
+                        [
+                            9.63905101278223,
+                            45.66797976353509,
+                            11.652
+                        ],
+                        [
+                            9.63908199006086,
+                            45.6679786000464,
+                            11.652
+                        ],
+                        [
+                            9.63911364711696,
+                            45.6679774058217,
+                            11.652
+                        ],
+                        [
+                            9.63911441721488,
+                            45.6679954030394,
+                            11.652
+                        ],
+                        [
+                            9.63914726740106,
+                            45.6679952189912,
+                            11.652
+                        ],
+                        [
+                            9.63915509528369,
+                            45.66808101147,
+                            11.652
+                        ],
+                        [
+                            9.63915535064162,
+                            45.6680838222291,
+                            11.652
+                        ],
+                        [
+                            9.63912052584057,
+                            45.6680853132884,
+                            11.652
+                        ],
+                        [
+                            9.63909111587596,
+                            45.6680865674433,
+                            11.652
+                        ],
+                        [
+                            9.63906091026673,
+                            45.668087861754,
+                            11.652
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PERRUCCHETTI, 7, 9",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO222.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO222_perrucchetti.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 108 <br>\n<b><i>Mappale:</i></b> 318 <br>\n<b><i>Indirizzo:</i></b>Via Perrucchetti, 7, 9<br>\n<b><i>Numero alloggi:</i></b> 10 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 3708 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "9"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.63911364711696,
+                            45.6679774058217,
+                            11.601
+                        ],
+                        [
+                            9.63908199006086,
+                            45.6679786000464,
+                            11.601
+                        ],
+                        [
+                            9.63905101278223,
+                            45.66797976353509,
+                            11.601
+                        ],
+                        [
+                            9.63902080232638,
+                            45.6679817962095,
+                            11.601
+                        ],
+                        [
+                            9.63899968049436,
+                            45.66798191452429,
+                            11.601
+                        ],
+                        [
+                            9.63899177802257,
+                            45.6679819587878,
+                            11.601
+                        ],
+                        [
+                            9.63898347920103,
+                            45.6678946977401,
+                            11.601
+                        ],
+                        [
+                            9.6391098471042,
+                            45.6678884094116,
+                            11.601
+                        ],
+                        [
+                            9.63911149622166,
+                            45.66792701710279,
+                            11.601
+                        ],
+                        [
+                            9.63911364711696,
+                            45.6679774058217,
+                            11.601
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA PERRUCCHETTI, 7, 9",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO222.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO222_perrucchetti.png\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 108 <br>\n<b><i>Mappale:</i></b> 318 <br>\n<b><i>Indirizzo:</i></b>Via Perrucchetti, 7, 9<br>\n<b><i>Numero alloggi:</i></b> 10 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 3708 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "8"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64367388332859,
+                            45.6800674858326,
+                            14.451
+                        ],
+                        [
+                            9.64356751560764,
+                            45.6799504192038,
+                            14.451
+                        ],
+                        [
+                            9.64360285398325,
+                            45.6799348734111,
+                            14.451
+                        ],
+                        [
+                            9.6435910227096,
+                            45.6799229854948,
+                            14.451
+                        ],
+                        [
+                            9.64358868135394,
+                            45.67992063315,
+                            14.451
+                        ],
+                        [
+                            9.64366752693136,
+                            45.67988634541339,
+                            14.451
+                        ],
+                        [
+                            9.64376542107015,
+                            45.679995496219,
+                            14.451
+                        ],
+                        [
+                            9.64379941960613,
+                            45.6800334026102,
+                            14.451
+                        ],
+                        [
+                            9.64371968724186,
+                            45.6800665071696,
+                            14.451
+                        ],
+                        [
+                            9.64370706880095,
+                            45.6800534370826,
+                            14.451
+                        ],
+                        [
+                            9.64367388332859,
+                            45.6800674858326,
+                            14.451
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA GROSSI TOMMASO, 1",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO157_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO157_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 82 <br>\n<b><i>Mappale:</i></b> 7429 <br>\n<b><i>Indirizzo:</i></b>Via Grossi Tommaso, 1<br>\n<b><i>Numero alloggi:</i></b> 8 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 2701 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "43"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64048436990786,
+                            45.6694812164153,
+                            12.712
+                        ],
+                        [
+                            9.64035016084299,
+                            45.6694880903009,
+                            12.712
+                        ],
+                        [
+                            9.64034357633328,
+                            45.669421877932,
+                            12.712
+                        ],
+                        [
+                            9.64034173429769,
+                            45.669403368148,
+                            12.712
+                        ],
+                        [
+                            9.64032860702617,
+                            45.6694039192286,
+                            12.712
+                        ],
+                        [
+                            9.64032594936697,
+                            45.6693780750806,
+                            12.712
+                        ],
+                        [
+                            9.64033975433141,
+                            45.669377241119,
+                            12.712
+                        ],
+                        [
+                            9.64033336021473,
+                            45.669298538463,
+                            12.712
+                        ],
+                        [
+                            9.64041750374536,
+                            45.669293107021,
+                            12.712
+                        ],
+                        [
+                            9.64041601757094,
+                            45.6692753637983,
+                            12.712
+                        ],
+                        [
+                            9.64041038363008,
+                            45.66920813471871,
+                            12.712
+                        ],
+                        [
+                            9.64039805266829,
+                            45.66920869891771,
+                            12.712
+                        ],
+                        [
+                            9.64039785503013,
+                            45.6692068997656,
+                            12.712
+                        ],
+                        [
+                            9.64039528720713,
+                            45.6691835030738,
+                            12.712
+                        ],
+                        [
+                            9.64040836210551,
+                            45.6691828989902,
+                            12.712
+                        ],
+                        [
+                            9.64040269803746,
+                            45.6691085030884,
+                            12.712
+                        ],
+                        [
+                            9.64045568105815,
+                            45.6691062438683,
+                            12.712
+                        ],
+                        [
+                            9.6404888586942,
+                            45.6691048297686,
+                            12.712
+                        ],
+                        [
+                            9.64050842754618,
+                            45.66910399419069,
+                            12.712
+                        ],
+                        [
+                            9.64053395494466,
+                            45.6691029059559,
+                            12.712
+                        ],
+                        [
+                            9.64053526840091,
+                            45.6691185598196,
+                            12.712
+                        ],
+                        [
+                            9.64053730248636,
+                            45.6691428324428,
+                            12.712
+                        ],
+                        [
+                            9.64054247448078,
+                            45.669204525433,
+                            12.712
+                        ],
+                        [
+                            9.64054972495993,
+                            45.66929101433839,
+                            12.712
+                        ],
+                        [
+                            9.64046929108025,
+                            45.66929433527081,
+                            12.712
+                        ],
+                        [
+                            9.64046643236014,
+                            45.6692944524037,
+                            12.712
+                        ],
+                        [
+                            9.64047319942795,
+                            45.66936490482411,
+                            12.712
+                        ],
+                        [
+                            9.64048436990786,
+                            45.6694812164153,
+                            12.712
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA FERAMOLINO, 20,22",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO130_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO130_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 109 <br>\n<b><i>Mappale:</i></b> 401 <br>\n<b><i>Indirizzo:</i></b> Via Feramolino, 20,22<br>\n<b><i>Numero alloggi:</i></b> 18 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>medio<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 5607 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "15"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.64013029288879,
+                            45.66897480462301,
+                            11.082
+                        ],
+                        [
+                            9.64013754030644,
+                            45.6690713782329,
+                            11.082
+                        ],
+                        [
+                            9.64006106798656,
+                            45.6690751375647,
+                            11.082
+                        ],
+                        [
+                            9.64005793162511,
+                            45.6690815459001,
+                            11.082
+                        ],
+                        [
+                            9.6400615383148,
+                            45.6691242287501,
+                            11.082
+                        ],
+                        [
+                            9.64006999375917,
+                            45.66922428953159,
+                            11.082
+                        ],
+                        [
+                            9.64008421944155,
+                            45.66939263561391,
+                            11.082
+                        ],
+                        [
+                            9.64006303156186,
+                            45.6693935356893,
+                            11.082
+                        ],
+                        [
+                            9.63994704597121,
+                            45.6693984544014,
+                            11.082
+                        ],
+                        [
+                            9.63994074399999,
+                            45.6693252365937,
+                            11.082
+                        ],
+                        [
+                            9.63993312413215,
+                            45.6692367154339,
+                            11.082
+                        ],
+                        [
+                            9.63991966480193,
+                            45.66908034114151,
+                            11.082
+                        ],
+                        [
+                            9.63997071407637,
+                            45.6690785731368,
+                            11.082
+                        ],
+                        [
+                            9.63999717588445,
+                            45.6690776561237,
+                            11.082
+                        ],
+                        [
+                            9.64000449733103,
+                            45.66906788528181,
+                            11.082
+                        ],
+                        [
+                            9.63999710258474,
+                            45.6689783602684,
+                            11.082
+                        ],
+                        [
+                            9.63999079280465,
+                            45.668901988062,
+                            11.082
+                        ],
+                        [
+                            9.64012438172994,
+                            45.6688960272726,
+                            11.082
+                        ],
+                        [
+                            9.64013029288879,
+                            45.66897480462301,
+                            11.082
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA FERAMOLINO, 2,4,6,8",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO129_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO129_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 109 <br>\n<b><i>Mappale:</i></b> 325 <br>\n<b><i>Indirizzo:</i></b>Via Feramolino, 2,4,6,8<br>\n<b><i>Numero alloggi:</i></b> 16 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>medio<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 6452 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "13"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.66461110102069,
+                            45.6701832513409,
+                            12.149
+                        ],
+                        [
+                            9.6646111542971,
+                            45.6701974630517,
+                            12.149
+                        ],
+                        [
+                            9.66459155773029,
+                            45.6702121584052,
+                            12.149
+                        ],
+                        [
+                            9.66459150967405,
+                            45.6702287291188,
+                            12.149
+                        ],
+                        [
+                            9.66456802494019,
+                            45.6702294779162,
+                            12.149
+                        ],
+                        [
+                            9.66446989060562,
+                            45.67030116456989,
+                            12.149
+                        ],
+                        [
+                            9.66447098345276,
+                            45.6703175396599,
+                            12.149
+                        ],
+                        [
+                            9.66444939179165,
+                            45.67031775551221,
+                            12.149
+                        ],
+                        [
+                            9.66442709685302,
+                            45.6703322863628,
+                            12.149
+                        ],
+                        [
+                            9.6644041296182,
+                            45.6703323393657,
+                            12.149
+                        ],
+                        [
+                            9.66433179461788,
+                            45.67028333718391,
+                            12.149
+                        ],
+                        [
+                            9.66433174813123,
+                            45.67026966508699,
+                            12.149
+                        ],
+                        [
+                            9.6645175578644,
+                            45.6701332022769,
+                            12.149
+                        ],
+                        [
+                            9.66453706916952,
+                            45.6701328995484,
+                            12.149
+                        ],
+                        [
+                            9.66461110102069,
+                            45.6701832513409,
+                            12.149
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA EINSTEIN, 53",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"C:/Users/Nicola/Desktop/files/BGO112_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"C:/Users/Nicola/Desktop/files/BGO112_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 102 <br>\n<b><i>Mappale:</i> </b>  1016 <br>\n<b><i>Indirizzo:</i></b> Via Einstein, 53 <br>\n<b><i>Numero alloggi:</i></b> 6 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato <br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto <br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> pubblica <br>\n<b><i>Dimensione:</i></b> 2.879m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b> basso <br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "363"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.66458033116721,
+                            45.6700546203583,
+                            12.149
+                        ],
+                        [
+                            9.66460194547112,
+                            45.67006934592341,
+                            12.149
+                        ],
+                        [
+                            9.6646032693361,
+                            45.6700846484073,
+                            12.149
+                        ],
+                        [
+                            9.66453706909316,
+                            45.67013289930279,
+                            12.149
+                        ],
+                        [
+                            9.66451755732104,
+                            45.67013320188521,
+                            12.149
+                        ],
+                        [
+                            9.6643663738211,
+                            45.6700291433335,
+                            12.149
+                        ],
+                        [
+                            9.66436621054397,
+                            45.67001536406119,
+                            12.149
+                        ],
+                        [
+                            9.66442857624765,
+                            45.6699685478213,
+                            12.149
+                        ],
+                        [
+                            9.66445026626356,
+                            45.66996798090591,
+                            12.149
+                        ],
+                        [
+                            9.6644702175318,
+                            45.6699820948532,
+                            12.149
+                        ],
+                        [
+                            9.66449447827744,
+                            45.669981773355,
+                            12.149
+                        ],
+                        [
+                            9.66449426084177,
+                            45.6699981379469,
+                            12.149
+                        ],
+                        [
+                            9.66455728949702,
+                            45.6700397234622,
+                            12.149
+                        ],
+                        [
+                            9.66457987824703,
+                            45.6700391507392,
+                            12.149
+                        ],
+                        [
+                            9.66458033116721,
+                            45.6700546203583,
+                            12.149
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA EINSTEIN, 55",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"C:/Users/Nicola/Desktop/files/BGO113_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"C:/Users/Nicola/Desktop/files/BGO113_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 102 <br>\n<b><i>Mappale:</i> </b>  1015 <br>\n<b><i>Indirizzo:</i></b> Via Einstein, 55 <br>\n<b><i>Numero alloggi:</i></b> 6 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato <br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto <br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> pubblica <br>\n<b><i>Dimensione:</i></b> 2.171m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b> basso <br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "362"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.71196101435578,
+                            45.6952897053231,
+                            13.708
+                        ],
+                        [
+                            9.7119520515514,
+                            45.6952929112868,
+                            13.708
+                        ],
+                        [
+                            9.71200076054165,
+                            45.695367476666,
+                            13.708
+                        ],
+                        [
+                            9.71189051937573,
+                            45.69540242879349,
+                            13.708
+                        ],
+                        [
+                            9.71182482603771,
+                            45.6953005332626,
+                            13.708
+                        ],
+                        [
+                            9.71178006943308,
+                            45.6952311148131,
+                            13.708
+                        ],
+                        [
+                            9.71181391077015,
+                            45.69522040154289,
+                            13.708
+                        ],
+                        [
+                            9.71188970197605,
+                            45.6951964077599,
+                            13.708
+                        ],
+                        [
+                            9.71193559986888,
+                            45.69526772202519,
+                            13.708
+                        ],
+                        [
+                            9.71194458818825,
+                            45.695264488434,
+                            13.708
+                        ],
+                        [
+                            9.71196101435578,
+                            45.6952897053231,
+                            13.708
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA MONTE GRIGNA, 5",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO197_montegrigna5orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO197_montegrigna5street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 58<br>\n<b><i>Mappale:</i> 6236</b><br>\n<b><i>Indirizzo:</i></b> Via Monte Grigna, 5<br>\n<b><i>Numero alloggi:</i> 16</b><br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato <br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista <br>\n<b><i>Dimensione:</i></b> 2.718 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> non presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b> basso <br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "199"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.71317601689048,
+                            45.6955691836059,
+                            15.385
+                        ],
+                        [
+                            9.71316315333828,
+                            45.695573076583,
+                            15.385
+                        ],
+                        [
+                            9.71304779975864,
+                            45.69560797718181,
+                            15.385
+                        ],
+                        [
+                            9.7129874172705,
+                            45.6955098149849,
+                            15.385
+                        ],
+                        [
+                            9.7129807838544,
+                            45.6954990483565,
+                            15.385
+                        ],
+                        [
+                            9.71297291742407,
+                            45.6954862568039,
+                            15.385
+                        ],
+                        [
+                            9.71294184250964,
+                            45.6954357358474,
+                            15.385
+                        ],
+                        [
+                            9.71291035484214,
+                            45.6954452931735,
+                            15.385
+                        ],
+                        [
+                            9.71288998432913,
+                            45.6954121935992,
+                            15.385
+                        ],
+                        [
+                            9.71286981874138,
+                            45.69537942564891,
+                            15.385
+                        ],
+                        [
+                            9.71280098923757,
+                            45.6952675832602,
+                            15.385
+                        ],
+                        [
+                            9.71292868128936,
+                            45.6952289728798,
+                            15.385
+                        ],
+                        [
+                            9.71296096459378,
+                            45.695281380481,
+                            15.385
+                        ],
+                        [
+                            9.71298874457887,
+                            45.6953264784278,
+                            15.385
+                        ],
+                        [
+                            9.71299660028588,
+                            45.6953392299411,
+                            15.385
+                        ],
+                        [
+                            9.71302829301595,
+                            45.6953906814833,
+                            15.385
+                        ],
+                        [
+                            9.71303477998352,
+                            45.6954012133496,
+                            15.385
+                        ],
+                        [
+                            9.71306676746757,
+                            45.6953915715597,
+                            15.385
+                        ],
+                        [
+                            9.71317601689048,
+                            45.6955691836059,
+                            15.385
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA MONTE GRIGNA, 2, 8",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/home/erp-bergamo/193.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifobsoleto/home/erp-bergamo/193_panorama.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 58<br>\n<b><i>Mappale:</i></b> 7259<br>\n<b><i>Indirizzo:</i></b> Via Monte Grigna, 2, 8<br>\n<b><i>Numero alloggi:</i></b> 24<br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<br><b><i>Grado di obsolescenza:</i></b> elevato <br>\n<b><i>Stato locativo:</i></b> occupato <br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista <br>\n<b><i>Dimensione:</i></b> 7.096 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> non presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b> alto <br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "208"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.6937884573386,
+                            45.6947627086696,
+                            12.291
+                        ],
+                        [
+                            9.69380036586421,
+                            45.6947836673498,
+                            12.291
+                        ],
+                        [
+                            9.69384426890093,
+                            45.69477142921669,
+                            12.291
+                        ],
+                        [
+                            9.6938614586496,
+                            45.69480168937609,
+                            12.291
+                        ],
+                        [
+                            9.69389089359416,
+                            45.6948535022125,
+                            12.291
+                        ],
+                        [
+                            9.69380303090366,
+                            45.6948779749928,
+                            12.291
+                        ],
+                        [
+                            9.69378450381673,
+                            45.6948831335428,
+                            12.291
+                        ],
+                        [
+                            9.69377889530962,
+                            45.6948846959743,
+                            12.291
+                        ],
+                        [
+                            9.69372072935217,
+                            45.69478225257361,
+                            12.291
+                        ],
+                        [
+                            9.69372845958807,
+                            45.6947800273516,
+                            12.291
+                        ],
+                        [
+                            9.693772920352,
+                            45.694767183209,
+                            12.291
+                        ],
+                        [
+                            9.69377691044181,
+                            45.6947660338536,
+                            12.291
+                        ],
+                        [
+                            9.6937884573386,
+                            45.6947627086696,
+                            12.291
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI 62",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO101_dellevalli62orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"C:/Users/Nicola/Desktop/files/BGO101_dellevalli62street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11<br>\n<b><i>Mappale:</i></b> 7372<br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 62<br>\n<b><i>Numero alloggi:</i></b>8<br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 2.154 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "178"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.69372072935217,
+                            45.69478225257361,
+                            10.401
+                        ],
+                        [
+                            9.69367465020791,
+                            45.6947951340056,
+                            10.401
+                        ],
+                        [
+                            9.69363392418772,
+                            45.6947236458114,
+                            10.401
+                        ],
+                        [
+                            9.69374812238033,
+                            45.6946917279395,
+                            10.401
+                        ],
+                        [
+                            9.69377518091028,
+                            45.69473934607169,
+                            10.401
+                        ],
+                        [
+                            9.6937884573386,
+                            45.6947627086696,
+                            10.401
+                        ],
+                        [
+                            9.69377691044181,
+                            45.6947660338536,
+                            10.401
+                        ],
+                        [
+                            9.693772920352,
+                            45.694767183209,
+                            10.401
+                        ],
+                        [
+                            9.69372845958807,
+                            45.6947800273516,
+                            10.401
+                        ],
+                        [
+                            9.69372072935217,
+                            45.69478225257361,
+                            10.401
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI 62",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO101_dellevalli62orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"C:/Users/Nicola/Desktop/files/BGO101_dellevalli62street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11<br>\n<b><i>Mappale:</i></b> 7372<br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 62<br>\n<b><i>Numero alloggi:</i></b>8<br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 2.154 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "174"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.69417600077259,
+                            45.6959034197163,
+                            11.971
+                        ],
+                        [
+                            9.69418761520518,
+                            45.6959242109418,
+                            11.971
+                        ],
+                        [
+                            9.69420806303678,
+                            45.6959185907081,
+                            11.971
+                        ],
+                        [
+                            9.6942327883944,
+                            45.6959117940812,
+                            11.971
+                        ],
+                        [
+                            9.69427747645276,
+                            45.6959929601616,
+                            11.971
+                        ],
+                        [
+                            9.69416392702662,
+                            45.6960245329036,
+                            11.971
+                        ],
+                        [
+                            9.69415410554772,
+                            45.69600602763681,
+                            11.971
+                        ],
+                        [
+                            9.69410935050412,
+                            45.6959217168362,
+                            11.971
+                        ],
+                        [
+                            9.69417600077259,
+                            45.6959034197163,
+                            11.971
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI, 72,74,76",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO104_dellevalli727476orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO104_dellevalli727476street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11 <br>\n<b><i>Mappale:</i> </b> 7369 <br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 72, 74, 76<br>\n<b><i>Numero alloggi:</i></b> 18<br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 6.320 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "217"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.69410935050412,
+                            45.6959217168362,
+                            10.411
+                        ],
+                        [
+                            9.69406237998546,
+                            45.6959352339617,
+                            10.411
+                        ],
+                        [
+                            9.69402368261211,
+                            45.6958673846167,
+                            10.411
+                        ],
+                        [
+                            9.69402037951113,
+                            45.6958615935934,
+                            10.411
+                        ],
+                        [
+                            9.69406466021415,
+                            45.6958486422138,
+                            10.411
+                        ],
+                        [
+                            9.69411959526384,
+                            45.69583522989299,
+                            10.411
+                        ],
+                        [
+                            9.69413570422988,
+                            45.69583127975831,
+                            10.411
+                        ],
+                        [
+                            9.69414411898837,
+                            45.6958463425145,
+                            10.411
+                        ],
+                        [
+                            9.69417600077259,
+                            45.6959034197163,
+                            10.411
+                        ],
+                        [
+                            9.69410935050412,
+                            45.6959217168362,
+                            10.411
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI, 72,74,76",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO104_dellevalli727476orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO104_dellevalli727476street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11 <br>\n<b><i>Mappale:</i> </b> 7369 <br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 72, 74, 76<br>\n<b><i>Numero alloggi:</i></b> 18<br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 6.320 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "215"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.69413570422988,
+                            45.69583127975831,
+                            11.971
+                        ],
+                        [
+                            9.69411959526384,
+                            45.69583522989299,
+                            11.971
+                        ],
+                        [
+                            9.69406466021415,
+                            45.6958486422138,
+                            11.971
+                        ],
+                        [
+                            9.6940279133988,
+                            45.6957833300259,
+                            11.971
+                        ],
+                        [
+                            9.69402268707838,
+                            45.6957740386546,
+                            11.971
+                        ],
+                        [
+                            9.69400948855103,
+                            45.6957506003514,
+                            11.971
+                        ],
+                        [
+                            9.69401826977176,
+                            45.695748215992,
+                            11.971
+                        ],
+                        [
+                            9.69406347050708,
+                            45.69573594296501,
+                            11.971
+                        ],
+                        [
+                            9.69407677312647,
+                            45.6957323246981,
+                            11.971
+                        ],
+                        [
+                            9.69408720149965,
+                            45.6957510993101,
+                            11.971
+                        ],
+                        [
+                            9.69411370411711,
+                            45.69574386888879,
+                            11.971
+                        ],
+                        [
+                            9.69413073734683,
+                            45.6957392236862,
+                            11.971
+                        ],
+                        [
+                            9.69414159857966,
+                            45.695758766411,
+                            11.971
+                        ],
+                        [
+                            9.69416901005499,
+                            45.69580810178441,
+                            11.971
+                        ],
+                        [
+                            9.69417579657245,
+                            45.6958203155834,
+                            11.971
+                        ],
+                        [
+                            9.69413570422988,
+                            45.69583127975831,
+                            11.971
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI, 72,74,76",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO104_dellevalli727476orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO104_dellevalli727476street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11 <br>\n<b><i>Mappale:</i> </b> 7369 <br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 72, 74, 76<br>\n<b><i>Numero alloggi:</i></b> 18<br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 6.320 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "212"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.69400948855103,
+                            45.6957506003514,
+                            10.411
+                        ],
+                        [
+                            9.6939644870763,
+                            45.6957632034075,
+                            10.411
+                        ],
+                        [
+                            9.69392320737217,
+                            45.6956898217619,
+                            10.411
+                        ],
+                        [
+                            9.69396531965647,
+                            45.6956781432883,
+                            10.411
+                        ],
+                        [
+                            9.69397900547649,
+                            45.6956745139118,
+                            10.411
+                        ],
+                        [
+                            9.69398224899202,
+                            45.6956736553089,
+                            10.411
+                        ],
+                        [
+                            9.69402090616598,
+                            45.69566341298661,
+                            10.411
+                        ],
+                        [
+                            9.69403624308588,
+                            45.69565935055059,
+                            10.411
+                        ],
+                        [
+                            9.69407031291497,
+                            45.695720693425,
+                            10.411
+                        ],
+                        [
+                            9.69407677312647,
+                            45.6957323246981,
+                            10.411
+                        ],
+                        [
+                            9.69406347050708,
+                            45.69573594296501,
+                            10.411
+                        ],
+                        [
+                            9.69401826977176,
+                            45.695748215992,
+                            10.411
+                        ],
+                        [
+                            9.69400948855103,
+                            45.6957506003514,
+                            10.411
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI, 72,74,76",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO104_dellevalli727476orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO104_dellevalli727476street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11 <br>\n<b><i>Mappale:</i> </b> 7369 <br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 72, 74, 76<br>\n<b><i>Numero alloggi:</i></b> 18<br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 6.320 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "209"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.69403624308588,
+                            45.69565935055059,
+                            11.971
+                        ],
+                        [
+                            9.69402090616598,
+                            45.69566341298661,
+                            11.971
+                        ],
+                        [
+                            9.69398224899202,
+                            45.6956736553089,
+                            11.971
+                        ],
+                        [
+                            9.69397900547649,
+                            45.6956745139118,
+                            11.971
+                        ],
+                        [
+                            9.69396531965647,
+                            45.6956781432883,
+                            11.971
+                        ],
+                        [
+                            9.69395438854394,
+                            45.69565877566869,
+                            11.971
+                        ],
+                        [
+                            9.69392236468274,
+                            45.6956020338275,
+                            11.971
+                        ],
+                        [
+                            9.69390911407218,
+                            45.6955785612206,
+                            11.971
+                        ],
+                        [
+                            9.69392026228478,
+                            45.69557537743491,
+                            11.971
+                        ],
+                        [
+                            9.6939646487025,
+                            45.6955626863945,
+                            11.971
+                        ],
+                        [
+                            9.69397805130108,
+                            45.6955588516321,
+                            11.971
+                        ],
+                        [
+                            9.69398884776735,
+                            45.6955783623529,
+                            11.971
+                        ],
+                        [
+                            9.69403353616409,
+                            45.6955661918913,
+                            11.971
+                        ],
+                        [
+                            9.69407884334854,
+                            45.69564764214821,
+                            11.971
+                        ],
+                        [
+                            9.69403624308588,
+                            45.69565935055059,
+                            11.971
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI, 72,74,76",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO104_dellevalli727476orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO104_dellevalli727476street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>  \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11 <br>\n<b><i>Mappale:</i> </b> 7369 <br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 72, 74, 76<br>\n<b><i>Numero alloggi:</i></b> 18<br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 6.320 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "207"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.69390911407218,
+                            45.6955785612206,
+                            10.411
+                        ],
+                        [
+                            9.69386431373255,
+                            45.6955910009547,
+                            10.411
+                        ],
+                        [
+                            9.69383350472883,
+                            45.6955365090145,
+                            10.411
+                        ],
+                        [
+                            9.69382333073612,
+                            45.6955185156652,
+                            10.411
+                        ],
+                        [
+                            9.69393841136343,
+                            45.69548721356751,
+                            10.411
+                        ],
+                        [
+                            9.69396441139266,
+                            45.6955342024756,
+                            10.411
+                        ],
+                        [
+                            9.69397805130108,
+                            45.6955588516321,
+                            10.411
+                        ],
+                        [
+                            9.6939646487025,
+                            45.6955626863945,
+                            10.411
+                        ],
+                        [
+                            9.69392026228478,
+                            45.69557537743491,
+                            10.411
+                        ],
+                        [
+                            9.69390911407218,
+                            45.6955785612206,
+                            10.411
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI, 72,74,76",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO104_dellevalli727476orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO104_dellevalli727476street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11 <br>\n<b><i>Mappale:</i> </b> 7369 <br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 72, 74, 76<br>\n<b><i>Numero alloggi:</i></b> 18<br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 6.320 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "202"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.69379768302903,
+                            45.6952448650936,
+                            11.399
+                        ],
+                        [
+                            9.69380564796428,
+                            45.6952601448624,
+                            11.399
+                        ],
+                        [
+                            9.6938079742735,
+                            45.695264609636,
+                            11.399
+                        ],
+                        [
+                            9.69381403294018,
+                            45.695263058751,
+                            11.399
+                        ],
+                        [
+                            9.69385511665253,
+                            45.6952525407799,
+                            11.399
+                        ],
+                        [
+                            9.69387097607064,
+                            45.6952828524273,
+                            11.399
+                        ],
+                        [
+                            9.69389876540053,
+                            45.6953359635127,
+                            11.399
+                        ],
+                        [
+                            9.69378432965646,
+                            45.6953653811933,
+                            11.399
+                        ],
+                        [
+                            9.69374363760536,
+                            45.6952871802205,
+                            11.399
+                        ],
+                        [
+                            9.69373129418298,
+                            45.69526345596089,
+                            11.399
+                        ],
+                        [
+                            9.69373919166403,
+                            45.6952612473007,
+                            11.399
+                        ],
+                        [
+                            9.69377774920505,
+                            45.6952504480679,
+                            11.399
+                        ],
+                        [
+                            9.69379768302903,
+                            45.6952448650936,
+                            11.399
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI, 64,66,68",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO102_dellevalli646668orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"C:/Users/Nicola/Desktop/files/BGO102_dellevalli646668street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11<br>\n<b><i>Mappale:</i> </b> 7370 <br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 64, 66, 68 <br>\n<b><i>Numero alloggi:</i></b> 18  <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 5.939 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "198"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.69373129418298,
+                            45.69526345596089,
+                            9.86
+                        ],
+                        [
+                            9.69368567266641,
+                            45.695275149646,
+                            9.86
+                        ],
+                        [
+                            9.69364470298145,
+                            45.6952056038285,
+                            9.86
+                        ],
+                        [
+                            9.69364698217637,
+                            45.6952049939147,
+                            9.86
+                        ],
+                        [
+                            9.69368816457835,
+                            45.6951939628514,
+                            9.86
+                        ],
+                        [
+                            9.69369931184567,
+                            45.6951907714026,
+                            9.86
+                        ],
+                        [
+                            9.69374134320699,
+                            45.6951787248847,
+                            9.86
+                        ],
+                        [
+                            9.69376036142021,
+                            45.69517327219131,
+                            9.86
+                        ],
+                        [
+                            9.69379768302903,
+                            45.6952448650936,
+                            9.86
+                        ],
+                        [
+                            9.69377774920505,
+                            45.6952504480679,
+                            9.86
+                        ],
+                        [
+                            9.69373919166403,
+                            45.6952612473007,
+                            9.86
+                        ],
+                        [
+                            9.69373129418298,
+                            45.69526345596089,
+                            9.86
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI, 64,66,68",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO102_dellevalli646668orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"C:/Users/Nicola/Desktop/files/BGO102_dellevalli646668street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11<br>\n<b><i>Mappale:</i> </b> 7370 <br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 64, 66, 68 <br>\n<b><i>Numero alloggi:</i></b> 18  <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 5.939 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "196"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.69376036142021,
+                            45.69517327219131,
+                            11.399
+                        ],
+                        [
+                            9.69374134320699,
+                            45.6951787248847,
+                            11.399
+                        ],
+                        [
+                            9.69369931184567,
+                            45.6951907714026,
+                            11.399
+                        ],
+                        [
+                            9.69368816457835,
+                            45.6951939628514,
+                            11.399
+                        ],
+                        [
+                            9.69364781737271,
+                            45.69511681121809,
+                            11.399
+                        ],
+                        [
+                            9.69364026654922,
+                            45.6951023655919,
+                            11.399
+                        ],
+                        [
+                            9.69363542566648,
+                            45.69509310646729,
+                            11.399
+                        ],
+                        [
+                            9.69367212495748,
+                            45.69508184502221,
+                            11.399
+                        ],
+                        [
+                            9.69368431663889,
+                            45.6950781022587,
+                            11.399
+                        ],
+                        [
+                            9.69369904184925,
+                            45.6950735876211,
+                            11.399
+                        ],
+                        [
+                            9.69370850279495,
+                            45.69509168090399,
+                            11.399
+                        ],
+                        [
+                            9.69375458232253,
+                            45.69507988883571,
+                            11.399
+                        ],
+                        [
+                            9.69379840020477,
+                            45.695163508899,
+                            11.399
+                        ],
+                        [
+                            9.69376036142021,
+                            45.69517327219131,
+                            11.399
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI, 64,66,68",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO102_dellevalli646668orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"C:/Users/Nicola/Desktop/files/BGO102_dellevalli646668street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11<br>\n<b><i>Mappale:</i> </b> 7370 <br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 64, 66, 68 <br>\n<b><i>Numero alloggi:</i></b> 18  <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 5.939 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "192"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.69363542566648,
+                            45.69509310646729,
+                            9.86
+                        ],
+                        [
+                            9.69362190517038,
+                            45.6950965925151,
+                            9.86
+                        ],
+                        [
+                            9.69358743886995,
+                            45.6951054753768,
+                            9.86
+                        ],
+                        [
+                            9.69354378453881,
+                            45.695033970901,
+                            9.86
+                        ],
+                        [
+                            9.69359126468535,
+                            45.6950212073527,
+                            9.86
+                        ],
+                        [
+                            9.69359917423875,
+                            45.6950189629199,
+                            9.86
+                        ],
+                        [
+                            9.69364208971465,
+                            45.6950067852601,
+                            9.86
+                        ],
+                        [
+                            9.69366126241075,
+                            45.6950013404359,
+                            9.86
+                        ],
+                        [
+                            9.69369548969555,
+                            45.6950667955211,
+                            9.86
+                        ],
+                        [
+                            9.69369904184925,
+                            45.6950735876211,
+                            9.86
+                        ],
+                        [
+                            9.69368431663889,
+                            45.6950781022587,
+                            9.86
+                        ],
+                        [
+                            9.69367212495748,
+                            45.69508184502221,
+                            9.86
+                        ],
+                        [
+                            9.69363542566648,
+                            45.69509310646729,
+                            9.86
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI, 64,66,68",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO102_dellevalli646668orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"C:/Users/Nicola/Desktop/files/BGO102_dellevalli646668street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11<br>\n<b><i>Mappale:</i> </b> 7370 <br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 64, 66, 68 <br>\n<b><i>Numero alloggi:</i></b> 18  <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 5.939 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "188"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.69366126241075,
+                            45.6950013404359,
+                            11.399
+                        ],
+                        [
+                            9.69364208971465,
+                            45.6950067852601,
+                            11.399
+                        ],
+                        [
+                            9.69359917423875,
+                            45.6950189629199,
+                            11.399
+                        ],
+                        [
+                            9.69359126468535,
+                            45.6950212073527,
+                            11.399
+                        ],
+                        [
+                            9.69355698407245,
+                            45.6949556119224,
+                            11.399
+                        ],
+                        [
+                            9.69355124625466,
+                            45.6949446299623,
+                            11.399
+                        ],
+                        [
+                            9.69353798588431,
+                            45.6949192653781,
+                            11.399
+                        ],
+                        [
+                            9.69358642875772,
+                            45.6949064509337,
+                            11.399
+                        ],
+                        [
+                            9.69360056922182,
+                            45.6949027051194,
+                            11.399
+                        ],
+                        [
+                            9.6936104418036,
+                            45.694921633133,
+                            11.399
+                        ],
+                        [
+                            9.69365781484742,
+                            45.6949095360325,
+                            11.399
+                        ],
+                        [
+                            9.69369748765839,
+                            45.6949856045866,
+                            11.399
+                        ],
+                        [
+                            9.69370045307536,
+                            45.694991291095,
+                            11.399
+                        ],
+                        [
+                            9.69366126241075,
+                            45.6950013404359,
+                            11.399
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI, 64,66,68",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO102_dellevalli646668orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"C:/Users/Nicola/Desktop/files/BGO102_dellevalli646668street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11<br>\n<b><i>Mappale:</i> </b> 7370 <br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 64, 66, 68 <br>\n<b><i>Numero alloggi:</i></b> 18  <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 5.939 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "184"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.69353798588431,
+                            45.6949192653781,
+                            9.86
+                        ],
+                        [
+                            9.69348911642115,
+                            45.6949318807803,
+                            9.86
+                        ],
+                        [
+                            9.69347005324146,
+                            45.69489927575201,
+                            9.86
+                        ],
+                        [
+                            9.69344681271672,
+                            45.69485952423629,
+                            9.86
+                        ],
+                        [
+                            9.69356256756122,
+                            45.69482983792611,
+                            9.86
+                        ],
+                        [
+                            9.69359908047939,
+                            45.6948998487164,
+                            9.86
+                        ],
+                        [
+                            9.69360056922182,
+                            45.6949027051194,
+                            9.86
+                        ],
+                        [
+                            9.69358642875772,
+                            45.6949064509337,
+                            9.86
+                        ],
+                        [
+                            9.69353798588431,
+                            45.6949192653781,
+                            9.86
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA DELLE VALLI, 64,66,68",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO102_dellevalli646668orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"C:/Users/Nicola/Desktop/files/BGO102_dellevalli646668street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Foglio:</i></b> 11<br>\n<b><i>Mappale:</i> </b> 7370 <br>\n<b><i>Indirizzo:</i></b> Via \tdelle Valli, 64, 66, 68 <br>\n<b><i>Numero alloggi:</i></b> 18  <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Grado di obsolescenza:</i></b> elevato<br>\n<b><i>Stato locativo:</i></b> parzialmente sfitto<br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Proprietà:</i></b> mista<br>\n<b><i>Dimensione:</i></b> 5.939 m³ <br>\n<b><i>Prefabbricazione pesante:</i></b> non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b> presenti<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b> alto <br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b> presenti <br>\n<b><i>Accessibilità viaria:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>basso<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\"> TextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "180"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.68374833980395,
+                            45.7059317762674,
+                            13.06
+                        ],
+                        [
+                            9.68377954352874,
+                            45.7060589232532,
+                            13.06
+                        ],
+                        [
+                            9.68379017761638,
+                            45.7061022648265,
+                            13.06
+                        ],
+                        [
+                            9.68381664960075,
+                            45.706210135726,
+                            13.06
+                        ],
+                        [
+                            9.68379518318274,
+                            45.70621331554969,
+                            13.06
+                        ],
+                        [
+                            9.6838005232725,
+                            45.7062382875618,
+                            13.06
+                        ],
+                        [
+                            9.68373737783089,
+                            45.7062452633343,
+                            13.06
+                        ],
+                        [
+                            9.68374447219069,
+                            45.70627495041191,
+                            13.06
+                        ],
+                        [
+                            9.68373134178083,
+                            45.70627616848801,
+                            13.06
+                        ],
+                        [
+                            9.68368466198658,
+                            45.70628049321169,
+                            13.06
+                        ],
+                        [
+                            9.683678680747,
+                            45.7062563078702,
+                            13.06
+                        ],
+                        [
+                            9.68364549310553,
+                            45.70612213053341,
+                            13.06
+                        ],
+                        [
+                            9.68362226200929,
+                            45.706028199907,
+                            13.06
+                        ],
+                        [
+                            9.68360323324085,
+                            45.7059512681418,
+                            13.06
+                        ],
+                        [
+                            9.68369378741038,
+                            45.7059396454023,
+                            13.06
+                        ],
+                        [
+                            9.6837026744475,
+                            45.70593837750079,
+                            13.06
+                        ],
+                        [
+                            9.68374833980395,
+                            45.7059317762674,
+                            13.06
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIALE SANTUARIO DELL'ADDOLORATA, 1",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO312_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO312_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 32 <br>\n<b><i>Mappale:</i></b> 1801 <br>\n<b><i>Indirizzo:</i></b>Viale Santuario Dell'addolorata, 1<br>\n<b><i>Numero alloggi:</i></b> 20 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>basso<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>pubblica<br>\n<b><i>Dimensione:</i></b> 5242 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">alta</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>si<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "268"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.66337225054786,
+                            45.7150085310565,
+                            13.763
+                        ],
+                        [
+                            9.66327924365498,
+                            45.7149567874642,
+                            13.763
+                        ],
+                        [
+                            9.66333931680504,
+                            45.7149054531524,
+                            13.763
+                        ],
+                        [
+                            9.66344394359709,
+                            45.7148160443553,
+                            13.763
+                        ],
+                        [
+                            9.66350495425863,
+                            45.71476390738971,
+                            13.763
+                        ],
+                        [
+                            9.66370204430565,
+                            45.7145954825321,
+                            13.763
+                        ],
+                        [
+                            9.66379534111107,
+                            45.7146489435764,
+                            13.763
+                        ],
+                        [
+                            9.66372179275656,
+                            45.7147114490925,
+                            13.763
+                        ],
+                        [
+                            9.66373193472836,
+                            45.7147172583061,
+                            13.763
+                        ],
+                        [
+                            9.6637099935075,
+                            45.71473605301969,
+                            13.763
+                        ],
+                        [
+                            9.66369972250478,
+                            45.7147302082997,
+                            13.763
+                        ],
+                        [
+                            9.66368835626424,
+                            45.7147398710962,
+                            13.763
+                        ],
+                        [
+                            9.66363191075982,
+                            45.7147878471629,
+                            13.763
+                        ],
+                        [
+                            9.66364188464603,
+                            45.7147935672647,
+                            13.763
+                        ],
+                        [
+                            9.66361995648437,
+                            45.7148123443052,
+                            13.763
+                        ],
+                        [
+                            9.66360984123554,
+                            45.7148066068956,
+                            13.763
+                        ],
+                        [
+                            9.66354714567208,
+                            45.7148598947244,
+                            13.763
+                        ],
+                        [
+                            9.66348166115183,
+                            45.7149155488798,
+                            13.763
+                        ],
+                        [
+                            9.66346275606636,
+                            45.71493161647339,
+                            13.763
+                        ],
+                        [
+                            9.66347280723928,
+                            45.7149373723971,
+                            13.763
+                        ],
+                        [
+                            9.66345078953668,
+                            45.7149562131017,
+                            13.763
+                        ],
+                        [
+                            9.66344069897984,
+                            45.7149503760986,
+                            13.763
+                        ],
+                        [
+                            9.66337225054786,
+                            45.7150085310565,
+                            13.763
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA UCCELLI PIERANTONIO, 20, 22, 24",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO298_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO298_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 15 <br>\n<b><i>Mappale:</i></b> 1535 <br>\n<b><i>Indirizzo:</i></b>Via Uccelli Pierantonio, 20, 22, 24<br>\n<b><i>Numero alloggi:</i></b> 39 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 6757 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "274"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.66320282174195,
+                            45.714849458154,
+                            14.032
+                        ],
+                        [
+                            9.66316170194338,
+                            45.7148844284758,
+                            14.032
+                        ],
+                        [
+                            9.66315907696104,
+                            45.7148866598284,
+                            14.032
+                        ],
+                        [
+                            9.6631511606074,
+                            45.7148819769936,
+                            14.032
+                        ],
+                        [
+                            9.66306925360984,
+                            45.7148335291161,
+                            14.032
+                        ],
+                        [
+                            9.66313446219915,
+                            45.714777327998,
+                            14.032
+                        ],
+                        [
+                            9.6631244752476,
+                            45.71477162605479,
+                            14.032
+                        ],
+                        [
+                            9.66314646722177,
+                            45.71475279490111,
+                            14.032
+                        ],
+                        [
+                            9.66315631181525,
+                            45.714758461962,
+                            14.032
+                        ],
+                        [
+                            9.66317739943358,
+                            45.7147402804513,
+                            14.032
+                        ],
+                        [
+                            9.66322629711665,
+                            45.71469811451,
+                            14.032
+                        ],
+                        [
+                            9.66330214235139,
+                            45.7146327123989,
+                            14.032
+                        ],
+                        [
+                            9.66329214364402,
+                            45.71462700998691,
+                            14.032
+                        ],
+                        [
+                            9.66331414826281,
+                            45.7146081968561,
+                            14.032
+                        ],
+                        [
+                            9.66332401862143,
+                            45.7146138549613,
+                            14.032
+                        ],
+                        [
+                            9.66339124850948,
+                            45.7145558779645,
+                            14.032
+                        ],
+                        [
+                            9.66338097863934,
+                            45.71455012330301,
+                            14.032
+                        ],
+                        [
+                            9.66340015961304,
+                            45.7145337206611,
+                            14.032
+                        ],
+                        [
+                            9.66341024944981,
+                            45.7145395032872,
+                            14.032
+                        ],
+                        [
+                            9.66347828823194,
+                            45.7144808452765,
+                            14.032
+                        ],
+                        [
+                            9.66348605170672,
+                            45.7144741501911,
+                            14.032
+                        ],
+                        [
+                            9.66348829396963,
+                            45.71447536111361,
+                            14.032
+                        ],
+                        [
+                            9.66352655195822,
+                            45.71449600203761,
+                            14.032
+                        ],
+                        [
+                            9.66358276303977,
+                            45.7145263313344,
+                            14.032
+                        ],
+                        [
+                            9.6634413268981,
+                            45.71464661929041,
+                            14.032
+                        ],
+                        [
+                            9.66331631530984,
+                            45.71475293598011,
+                            14.032
+                        ],
+                        [
+                            9.66320282174195,
+                            45.714849458154,
+                            14.032
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA UCCELLI PIERANTONIO, 26, 28, 30",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO299_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO299_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 15 <br>\n<b><i>Mappale:</i></b> 1536 <br>\n<b><i>Indirizzo:</i></b>Via Uccelli Pierantonio, 26, 28, 30<br>\n<b><i>Numero alloggi:</i></b> 40 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 6867 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "273"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            9.6632517084261,
+                            45.71434383338549,
+                            11.063
+                        ],
+                        [
+                            9.66323897199488,
+                            45.7143545390888,
+                            11.063
+                        ],
+                        [
+                            9.66307969797555,
+                            45.7144883933318,
+                            11.063
+                        ],
+                        [
+                            9.66305391385576,
+                            45.7144731985925,
+                            11.063
+                        ],
+                        [
+                            9.66299016278361,
+                            45.7144356300471,
+                            11.063
+                        ],
+                        [
+                            9.663062972985,
+                            45.7143734643961,
+                            11.063
+                        ],
+                        [
+                            9.66314742747736,
+                            45.71430135526399,
+                            11.063
+                        ],
+                        [
+                            9.66316011145491,
+                            45.7142905240747,
+                            11.063
+                        ],
+                        [
+                            9.6632517084261,
+                            45.71434383338549,
+                            11.063
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "VIA UCCELLI PIERANTONIO, 32",
+                "styleUrl": "#trb233001001",
+                "styleHash": "-6be702e6",
+                "styleMapHash": {
+                    "normal": "#trb2220011",
+                    "highlight": "#trb261001"
+                },
+                "description": "<TD><img src=\"https://sites.google.com/site/rifobsoleto/ortofoto-bergamo/BGO300_orto.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<TD><img src=\"https://sites.google.com/site/rifobsoleto/streetview-bergamo/BGO300_street.jpg\" WIDTH=200 HEIGHT=150 ALT=></TD>\n<br>\n<FONT SIZE=\"3,5\">\n<b><i>Foglio:</i></b> 15 <br>\n<b><i>Mappale:</i></b> 1538 <br>\n<b><i>Indirizzo:</i></b>Via Uccelli Pierantonio, 32<br>\n<b><i>Numero alloggi:</i></b> 12 <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">media</u></a></font></b>\n<br><b><i>Grado di obsolescenza:</i></b>elevato<br>\n<b><i>Stato locativo:</i></b>parzialmente sfitto<br>\n<b><i>Vincoli:</i></b>non presenti<br>\n<b><i>Proprietà:</i></b>mista<br>\n<b><i>Dimensione:</i></b> 2122 <br>\n<b><i>Prefabbricazione pesante:</i></b>non presente<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">media</u></a></font></b><br>\n<b><i>Presenza aree dismesse:</i></b>no<br>\n<b><i>Intensità Fabbisogno Abitativo (PRERP):</i></b>alto<br>\n<b><i>Parchi e attrezzature ricreative programmate:</i></b>presenti<br>\n<b><i>Accessibilità viaria:</i></b>prossimità a infrastrutture urbane ed extraurbane<br>\n<b><i>Grado di edificabilità:</i></b>non presente<br>\n<div style=\"max-width:400px; word-wrap:break-word;\"><a style=\"color:#F8FAFB\">\nTextttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT</div>",
+                "stroke": "#aaff00",
+                "stroke-opacity": 0,
+                "fill": "#aaff00",
+                "fill-opacity": 1
+            },
+            "id": "271"
+        }
+    ]
+}
