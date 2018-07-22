@@ -72197,20 +72197,20 @@
       "type": "Feature",
       "properties": {
         "name": "Ex Convento delle Clarisse",
-		"stroke-opacity": 1,
-        "fill-opacity": 1,
-        "color": "#ffffff",
         "level": 1,
-        "styleUrl": "#msn_ylw-pushpin0",
-		"stroke": "#ffffff",
+        "styleUrl": "#trb23333000026",
         "height": 0,
-        "styleHash": "-695ef025",
+        "styleHash": "7a40ffef",
         "styleMapHash": {
-          "highlight": "#sh_ylw-pushpin0",
-          "normal": "#sn_ylw-pushpin"
+          "highlight": "#trb261301025",
+          "normal": "#trb22230026"
         },
+		"stroke-opacity": 1,
+        "color": "white",
+        "stroke": "#6e6e6e",
+        "visibility": "0",
+        "stroke-width": 0.05,
         "base_height": 0,
-		"fill": "#ffffff",
         "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG16%20magazzini%20generali.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG16%20ex%20magazzini%20generali%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Boccaleone<br>\n<b><i>Volumetria attuale:</i> 21.879m³</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 3793m²<br>\n<b><i>Proprietà:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilità:</i></b> 1,5<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine e programmate<br>\n<b><i>Accessibilità:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>"
       }
     },
