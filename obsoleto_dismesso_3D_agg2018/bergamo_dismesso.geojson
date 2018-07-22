@@ -72150,6 +72150,166 @@
         "base_height": 0,
         "fill": "#aa5500"
       }
+    },
+	{
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.688604017270599,
+              45.68933982623269,
+              0
+            ],
+            [
+              9.687694475693265,
+              45.68978890498728,
+              0
+            ],
+            [
+              9.687357424442954,
+              45.68947662200006,
+              0
+            ],
+            [
+              9.688125835338667,
+              45.68907523127089,
+              0
+            ],
+            [
+              9.688265831098452,
+              45.6890872281151,
+              0
+            ],
+            [
+              9.688440904337078,
+              45.68916969598987,
+              0
+            ],
+            [
+              9.688604017270599,
+              45.68933982623269,
+              0
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ex Convento delle Clarisse",
+        "level": 1,
+        "styleUrl": "#msn_ylw-pushpin0",
+        "height": 0,
+        "styleHash": "-695ef025",
+        "styleMapHash": {
+          "highlight": "#sh_ylw-pushpin0",
+          "normal": "#sn_ylw-pushpin"
+        },
+        "base_height": 0,
+        "description": "<TD><img src=\"https://sites.google.com/site/rifoareedismesse/ortofoto-bergamo/BG16%20magazzini%20generali.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<TD><img src=\"https://sites.google.com/site/rifoareedismesse/streetview-bergamo-320x160/BG16%20ex%20magazzini%20generali%20%2805.2012%29.jpg?attredirects=0\" WIDTH=200 HEIGHT=150 ALT=></TD> \n<br>\n<FONT SIZE=\"3,5\"> \n<b><i>Indirizzo:</i></b> Via Boccaleone<br>\n<b><i>Volumetria attuale:</i> 21.879m³</b> <br>\n<br>\n<b>DEMOLIZIONE<a style=\"color:#00CC00\"> <u><font size=\"4\">ALTA</u></a></font></b><br>\n<b><i>Vincoli:</i></b> non presenti<br>\n<b><i>Piano attuativo:</i></b> ambito di trasformazione nel PGT<br>\n<b><i>Contaminazione:</i></b> non presente<br>\n<b><i>Superficie fondiaria:</i></b> 3793m²<br>\n<b><i>Proprietà:</i></b> privata e unica<br>\n<br>\n<b>RICOSTRUZIONE<a style=\"color:#FF8000\"> <u><font size=\"4\">MEDIA</u></a></font></b><br>\n<b><i>Indice di edificabilità:</i></b> 1,5<br>\n<b><i>Parchi e attrezzature ricreative:</i></b> vicine e programmate<br>\n<b><i>Accessibilità:</i></b> prossimità a infrastrutture urbane ed extraurbane<br>"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.688246362769883,
+              45.68912665304159,
+              13
+            ],
+            [
+              9.688333822753279,
+              45.6892011500261,
+              13
+            ],
+            [
+              9.68827364017232,
+              45.68923101280832,
+              13
+            ],
+            [
+              9.688371815288477,
+              45.68932300737062,
+              13
+            ],
+            [
+              9.688422466142407,
+              45.68930139219273,
+              13
+            ],
+            [
+              9.688500335541457,
+              45.68937155862405,
+              13
+            ],
+            [
+              9.68782186065802,
+              45.68972814701927,
+              13
+            ],
+            [
+              9.687750042232794,
+              45.68966199403518,
+              13
+            ],
+            [
+              9.688296500647214,
+              45.68935803051884,
+              13
+            ],
+            [
+              9.688206640292176,
+              45.68927571747135,
+              13
+            ],
+            [
+              9.687752809847112,
+              45.68950049302729,
+              13
+            ],
+            [
+              9.687854616594624,
+              45.68960003516487,
+              13
+            ],
+            [
+              9.687746648392325,
+              45.68965936766305,
+              13
+            ],
+            [
+              9.68753539245866,
+              45.68948048682132,
+              13
+            ],
+            [
+              9.688246362769883,
+              45.68912665304159,
+              13
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "Ex Convento delle Clarisse",
+        "stroke-opacity": 1,
+        "fill-opacity": 1,
+        "color": "#aa5500",
+        "level": 1,
+        "styleUrl": "#msn_ylw-pushpin",
+        "stroke": "#aa5500",
+        "height": 13,
+        "styleHash": "18e7853f",
+        "styleMapHash": {
+          "highlight": "#sh_ylw-pushpin",
+          "normal": "#sn_ylw-pushpin0"
+        },
+        "base_height": 0,
+        "fill": "#aa5500"
+      }
     }
   ]
 }
